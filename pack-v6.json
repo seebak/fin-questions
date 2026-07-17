@@ -65,19 +65,6 @@
   "explanation": "Depreciation allocates the cost of long-lived fixed assets over their useful lives."
  },
  {
-  "id": "ab06",
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Unearned revenue is classified as a…?",
-  "answers": [
-   "Liability",
-   "Asset",
-   "Equity item"
-  ],
-  "correctIndex": 0,
-  "explanation": "Cash received before delivering goods or services creates an obligation, so it is a liability."
- },
- {
   "id": "ab07",
   "topic": "accounting_basics",
   "difficulty": 2,
@@ -141,19 +128,6 @@
   "correctIndex": 0,
   "explanation": "Total cost over total units gives the average unit cost.",
   "id": "ab100"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "An inventory error this year also misstates income…?",
-  "answers": [
-   "Next year",
-   "Never",
-   "Forever"
-  ],
-  "correctIndex": 0,
-  "explanation": "Ending inventory becomes next year's beginning — errors counterbalance.",
-  "id": "ab101"
  },
  {
   "topic": "accounting_basics",
@@ -275,131 +249,105 @@
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "Assets $100k, liabilities $40k — equity?",
+  "question": "Accounting is often called the language of…?",
   "answers": [
-   "$60k",
-   "$140k",
-   "$40k"
+   "Business",
+   "Music",
+   "Law"
   ],
   "correctIndex": 0,
-  "explanation": "Equity = assets − liabilities (the accounting equation).",
+  "explanation": "It communicates a firm's economic story in standard terms.",
   "id": "ab110"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "Assets $250k, liabilities $150k — equity?",
+  "question": "GAAP stands for generally accepted accounting…?",
   "answers": [
-   "$100k",
-   "$400k",
-   "$150k"
+   "Principles",
+   "Payments",
+   "People"
   ],
   "correctIndex": 0,
-  "explanation": "Equity = assets − liabilities (the accounting equation).",
+  "explanation": "The rulebook for US financial reporting.",
   "id": "ab111"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "Revenue $200k, expenses $150k — net income?",
+  "question": "Global accounting standards are abbreviated as…?",
   "answers": [
-   "$50k",
-   "$350k",
-   "$150k"
+   "IFRS",
+   "IOU",
+   "GPS"
   ],
   "correctIndex": 0,
-  "explanation": "Net income = revenue − expenses.",
+  "explanation": "IFRS — International Financial Reporting Standards — are used in over 140 countries.",
   "id": "ab112"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "Revenue $90k, expenses $60k — net income?",
+  "question": "Which is a permanent (real) account?",
   "answers": [
-   "$30k",
-   "$150k",
-   "$60k"
+   "Equipment",
+   "Sales revenue",
+   "Rent expense"
   ],
   "correctIndex": 0,
-  "explanation": "Net income = revenue − expenses.",
+  "explanation": "Balance sheet accounts carry forward; income accounts close.",
   "id": "ab113"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "RE $100k; NI $40k; dividends $10k — ending RE?",
+  "question": "Which is a temporary (nominal) account?",
   "answers": [
-   "$130k",
-   "$150k",
-   "$70k"
+   "Wage expense",
+   "Cash",
+   "Land"
   ],
   "correctIndex": 0,
-  "explanation": "Ending retained earnings = beginning + net income − dividends.",
+  "explanation": "Revenues and expenses reset to zero each period.",
   "id": "ab114"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "RE $200k; NI $60k; dividends $20k — ending RE?",
+  "question": "Contra revenue accounts include sales returns and…?",
   "answers": [
-   "$240k",
-   "$280k",
-   "$160k"
+   "Discounts",
+   "Payables",
+   "Land"
   ],
   "correctIndex": 0,
-  "explanation": "Ending retained earnings = beginning + net income − dividends.",
+  "explanation": "Returns and discounts offset gross sales.",
   "id": "ab115"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "Cost $50k, salvage $10k, life 4 yrs — annual dep.?",
+  "question": "Book value = asset cost minus accumulated…?",
   "answers": [
-   "$10k",
-   "$12.5k",
-   "$15k"
+   "Depreciation",
+   "Revenue",
+   "Interest"
   ],
   "correctIndex": 0,
-  "explanation": "Straight-line depreciation = (cost − salvage) ÷ useful life.",
+  "explanation": "Carrying value is cost less depreciation taken so far.",
   "id": "ab116"
  },
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "Cost $120k, salvage $20k, life 5 yrs — annual dep.?",
+  "question": "Straight-line depreciation charges ____ amounts yearly.",
   "answers": [
-   "$20k",
-   "$24k",
-   "$28k"
+   "Equal",
+   "Rising",
+   "Falling"
   ],
   "correctIndex": 0,
-  "explanation": "Straight-line depreciation = (cost − salvage) ÷ useful life.",
-  "id": "ab117"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Beg inv $20k, purchases $80k, end inv $30k — COGS?",
-  "answers": [
-   "$70k",
-   "$130k",
-   "$90k"
-  ],
-  "correctIndex": 0,
-  "explanation": "COGS = beginning inventory + purchases − ending inventory.",
-  "id": "ab118"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Beg inv $50k, purchases $200k, end inv $60k — COGS?",
-  "answers": [
-   "$190k",
-   "$310k",
-   "$210k"
-  ],
-  "correctIndex": 0,
-  "explanation": "COGS = beginning inventory + purchases − ending inventory.",
+  "explanation": "The same expense every year of useful life.",
   "id": "ab119"
  },
  {
@@ -418,80 +366,119 @@
  {
   "topic": "accounting_basics",
   "difficulty": 3,
-  "question": "Cost $100k, dep. $10k/yr — book value after 3 yrs?",
+  "question": "IFRS is issued by the…?",
   "answers": [
-   "$70k",
-   "$90k",
-   "$60k"
+   "IASB",
+   "FASB",
+   "SEC"
   ],
   "correctIndex": 0,
-  "explanation": "Book value = cost − accumulated depreciation to date.",
-  "id": "ab120"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Cost $80k, dep. $8,000/yr — book value after 5 yrs?",
-  "answers": [
-   "$40k",
-   "$72k",
-   "$32k"
-  ],
-  "correctIndex": 0,
-  "explanation": "Book value = cost − accumulated depreciation to date.",
+  "explanation": "The International Accounting Standards Board sets IFRS.",
   "id": "ab121"
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "Cash $20k, receivables $30k, inventory $25k — current assets?",
+  "difficulty": 3,
+  "question": "Public companies answer to the securities…?",
   "answers": [
-   "$75k",
-   "$50k",
-   "$45k"
+   "Regulator",
+   "Postman",
+   "Referee"
   ],
   "correctIndex": 0,
-  "explanation": "Current assets sum cash, receivables, and inventory here.",
+  "explanation": "Listed companies report to their market's securities regulator.",
   "id": "ab122"
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "Cash $10k, receivables $15k, inventory $20k — current assets?",
+  "difficulty": 3,
+  "question": "The framework prizes relevance and faithful…?",
   "answers": [
-   "$45k",
-   "$25k",
-   "$30k"
+   "Representation",
+   "Rounding",
+   "Fonts"
   ],
   "correctIndex": 0,
-  "explanation": "Current assets sum cash, receivables, and inventory here.",
+  "explanation": "The two fundamental qualities of useful information.",
   "id": "ab123"
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Current assets $80k, current liabilities $50k — working capital?",
+  "difficulty": 3,
+  "question": "Comparability improves when firms use ____ methods.",
   "answers": [
-   "$30k",
-   "$130k",
-   "$50k"
+   "Similar",
+   "Secret",
+   "Rotating"
   ],
   "correctIndex": 0,
-  "explanation": "Working capital = current assets − current liabilities.",
+  "explanation": "Like-for-like methods make statements comparable.",
   "id": "ab124"
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Current assets $120k, current liabilities $70k — working capital?",
+  "difficulty": 3,
+  "question": "The going concern assumption presumes the firm will…?",
   "answers": [
-   "$50k",
-   "$190k",
-   "$70k"
+   "Keep operating",
+   "Close soon",
+   "Merge"
   ],
   "correctIndex": 0,
-  "explanation": "Working capital = current assets − current liabilities.",
+  "explanation": "Values assume continued operation, not liquidation.",
   "id": "ab125"
+ },
+ {
+  "id": "ab126",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You buy supplies for cash. Which account is credited?",
+  "answers": [
+   "Cash",
+   "Supplies",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Credit what goes out — cash leaves, supplies arrive (debit)."
+ },
+ {
+  "id": "ab127",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You buy supplies for cash. Which account is debited?",
+  "answers": [
+   "Supplies",
+   "Cash",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Debit what comes in — the supplies asset increases."
+ },
+ {
+  "id": "ab128",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You pay office rent in cash. Which account is debited?",
+  "answers": [
+   "Rent expense",
+   "Cash",
+   "Capital"
+  ],
+  "correctIndex": 0,
+  "explanation": "Expenses increase with debits; rent expense is debited."
+ },
+ {
+  "id": "ab129",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You pay office rent in cash. Which account is credited?",
+  "answers": [
+   "Cash",
+   "Rent expense",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cash decreases, and assets decrease with a credit."
  },
  {
   "id": "ab13",
@@ -507,17 +494,264 @@
   "explanation": "Double-entry bookkeeping records each transaction in at least two accounts."
  },
  {
-  "id": "ab14",
+  "id": "ab130",
   "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Recording a sale before cash arrives creates…?",
+  "difficulty": 1,
+  "question": "You buy a laptop on credit. Which account is debited?",
   "answers": [
-   "A receivable",
-   "A payable",
-   "Inventory"
+   "Equipment",
+   "Payables",
+   "Cash"
   ],
   "correctIndex": 0,
-  "explanation": "Credit sales create accounts receivable until the customer pays."
+  "explanation": "The equipment asset increases — debit it; no cash moves yet."
+ },
+ {
+  "id": "ab131",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You buy a laptop on credit. Which account is credited?",
+  "answers": [
+   "Payables",
+   "Equipment",
+   "Cash"
+  ],
+  "correctIndex": 0,
+  "explanation": "You now owe the supplier: accounts payable increases with a credit."
+ },
+ {
+  "id": "ab132",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "A customer pays an old invoice. Which account is debited?",
+  "answers": [
+   "Cash",
+   "Receivables",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cash comes in — debit cash. No new revenue: it was earned earlier."
+ },
+ {
+  "id": "ab133",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "A customer pays an old invoice. Which account is credited?",
+  "answers": [
+   "Receivables",
+   "Cash",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "The customer's debt is settled, so receivables go down with a credit."
+ },
+ {
+  "id": "ab134",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You invoice a customer, not yet paid. Which account is debited?",
+  "answers": [
+   "Receivables",
+   "Cash",
+   "Payables"
+  ],
+  "correctIndex": 0,
+  "explanation": "A receivable (asset) is created — debit it; credit revenue."
+ },
+ {
+  "id": "ab135",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You invoice a customer, not yet paid. Which account is credited?",
+  "answers": [
+   "Revenue",
+   "Receivables",
+   "Cash"
+  ],
+  "correctIndex": 0,
+  "explanation": "Revenue is earned when billed under accrual accounting — credit revenue."
+ },
+ {
+  "id": "ab136",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "The owner invests cash in the business. Which account is credited?",
+  "answers": [
+   "Capital",
+   "Cash",
+   "Expenses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Equity (capital) increases with a credit; cash is debited."
+ },
+ {
+  "id": "ab137",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "The owner invests cash in the business. Which account is debited?",
+  "answers": [
+   "Cash",
+   "Capital",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cash comes in — debit cash; credit the owner's capital."
+ },
+ {
+  "id": "ab138",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You repay part of a bank loan. Which account is debited?",
+  "answers": [
+   "Loan payable",
+   "Cash",
+   "Interest"
+  ],
+  "correctIndex": 0,
+  "explanation": "The liability shrinks — liabilities decrease with a debit."
+ },
+ {
+  "id": "ab139",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You repay part of a bank loan. Which account is credited?",
+  "answers": [
+   "Cash",
+   "Loan payable",
+   "Equity"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cash goes out — assets decrease with a credit."
+ },
+ {
+  "id": "ab140",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You pay staff wages in cash. Which account is debited?",
+  "answers": [
+   "Wages expense",
+   "Cash",
+   "Payables"
+  ],
+  "correctIndex": 0,
+  "explanation": "Wages are an expense — expenses increase with debits."
+ },
+ {
+  "id": "ab141",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You receive cash for work done today. Which account is credited?",
+  "answers": [
+   "Revenue",
+   "Cash",
+   "Supplies"
+  ],
+  "correctIndex": 0,
+  "explanation": "Work done means revenue earned — credit revenue, debit cash."
+ },
+ {
+  "id": "ab142",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Receiving a supplier bill for repairs: which account is credited?",
+  "answers": [
+   "Payables",
+   "Repairs expense",
+   "Cash"
+  ],
+  "correctIndex": 0,
+  "explanation": "No cash yet — you owe the supplier, so payables are credited."
+ },
+ {
+  "id": "ab143",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Receiving a supplier bill for repairs: which account is debited?",
+  "answers": [
+   "Repairs expense",
+   "Payables",
+   "Cash"
+  ],
+  "correctIndex": 0,
+  "explanation": "The repair cost is an expense — debit it when incurred."
+ },
+ {
+  "id": "ab144",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "You withdraw cash for private use. Which account is debited?",
+  "answers": [
+   "Drawings",
+   "Cash",
+   "Wages"
+  ],
+  "correctIndex": 0,
+  "explanation": "Owner withdrawals are drawings — they reduce equity, debited."
+ },
+ {
+  "id": "ab145",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "An expense increases with a…?",
+  "answers": [
+   "Debit",
+   "Credit",
+   "Coupon"
+  ],
+  "correctIndex": 0,
+  "explanation": "Expenses and assets grow with debits; liabilities, equity, and revenue with credits."
+ },
+ {
+  "id": "ab146",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "A liability increases with a…?",
+  "answers": [
+   "Credit",
+   "Debit",
+   "Memo"
+  ],
+  "correctIndex": 0,
+  "explanation": "Liabilities live on the credit side — they grow with credits."
+ },
+ {
+  "id": "ab147",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "The normal balance of Cash is a…?",
+  "answers": [
+   "Debit",
+   "Credit",
+   "Zero"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cash is an asset, and assets carry debit balances."
+ },
+ {
+  "id": "ab148",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "The normal balance of Accounts payable is a…?",
+  "answers": [
+   "Credit",
+   "Debit",
+   "Zero"
+  ],
+  "correctIndex": 0,
+  "explanation": "Payables are liabilities, and liabilities carry credit balances."
+ },
+ {
+  "id": "ab149",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "In every journal entry, total debits must ____ total credits.",
+  "answers": [
+   "Equal",
+   "Exceed",
+   "Trail"
+  ],
+  "correctIndex": 0,
+  "explanation": "Double-entry bookkeeping: the two sides always balance."
  },
  {
   "id": "ab15",
@@ -533,6 +767,110 @@
   "explanation": "Revenue, expense, and dividend accounts close into retained earnings each period."
  },
  {
+  "id": "ab150",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "A bank loan owed by the business is…?",
+  "answers": [
+   "A liability",
+   "An asset",
+   "Revenue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Anything the business owes is a liability."
+ },
+ {
+  "id": "ab151",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Cash, inventory, and equipment are all…?",
+  "answers": [
+   "Assets",
+   "Liabilities",
+   "Income"
+  ],
+  "correctIndex": 0,
+  "explanation": "Resources the business owns and uses are assets."
+ },
+ {
+  "id": "ab152",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Wages paid to staff are recorded as…?",
+  "answers": [
+   "An expense",
+   "Revenue",
+   "A liability"
+  ],
+  "correctIndex": 0,
+  "explanation": "Costs of running the business are expenses."
+ },
+ {
+  "id": "ab153",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Buying inventory with cash leaves total assets…?",
+  "answers": [
+   "Unchanged",
+   "Doubled",
+   "Halved"
+  ],
+  "correctIndex": 0,
+  "explanation": "One asset (cash) swaps for another (inventory) — the total is the same."
+ },
+ {
+  "id": "ab154",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Drawings taken by the owner ____ equity.",
+  "answers": [
+   "Reduce",
+   "Increase",
+   "Freeze"
+  ],
+  "correctIndex": 0,
+  "explanation": "Withdrawals shrink the owner's stake in the business."
+ },
+ {
+  "id": "ab155",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Profit kept in the business ____ equity.",
+  "answers": [
+   "Increases",
+   "Reduces",
+   "Erases"
+  ],
+  "correctIndex": 0,
+  "explanation": "Retained profit accumulates in equity."
+ },
+ {
+  "id": "ab156",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Cash received before doing the work is recorded as…?",
+  "answers": [
+   "A liability",
+   "Revenue",
+   "A gain"
+  ],
+  "correctIndex": 0,
+  "explanation": "You owe the customer the work — unearned revenue is a liability."
+ },
+ {
+  "id": "ab157",
+  "topic": "accounting_basics",
+  "difficulty": 1,
+  "question": "Petty cash covers…?",
+  "answers": [
+   "Small payments",
+   "Dividends",
+   "Mergers"
+  ],
+  "correctIndex": 0,
+  "explanation": "A small float for minor day-to-day costs like stamps and taxi fares."
+ },
+ {
   "id": "ab16",
   "topic": "accounting_basics",
   "difficulty": 1,
@@ -546,19 +884,6 @@
   "explanation": "The chart of accounts catalogs every account a business uses."
  },
  {
-  "id": "ab17",
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Reporting only significant items reflects which concept?",
-  "answers": [
-   "Materiality",
-   "Going concern",
-   "Consistency"
-  ],
-  "correctIndex": 0,
-  "explanation": "Materiality lets firms omit detail too small to influence decisions."
- },
- {
   "id": "ab18",
   "topic": "accounting_basics",
   "difficulty": 3,
@@ -570,19 +895,6 @@
   ],
   "correctIndex": 0,
   "explanation": "Prudence (conservatism) avoids overstating assets or income under uncertainty."
- },
- {
-  "id": "ab19",
-  "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "An owner taking cash out of the business records a…?",
-  "answers": [
-   "Withdrawal",
-   "Revenue",
-   "Liability"
-  ],
-  "correctIndex": 0,
-  "explanation": "Owner withdrawals (drawings) reduce equity; they are not expenses."
  },
  {
   "id": "ab20",
@@ -637,32 +949,6 @@
   "explanation": "Rearranging the accounting equation: equity is assets less liabilities."
  },
  {
-  "id": "ab24",
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Using the same methods period after period reflects…?",
-  "answers": [
-   "Consistency",
-   "Materiality",
-   "Neutrality"
-  ],
-  "correctIndex": 0,
-  "explanation": "Consistency makes financial statements comparable across periods."
- },
- {
-  "id": "ab25",
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Sales returns are recorded in which account type?",
-  "answers": [
-   "Contra revenue",
-   "Expense",
-   "Liability"
-  ],
-  "correctIndex": 0,
-  "explanation": "Returns and allowances offset gross sales as contra-revenue accounts."
- },
- {
   "topic": "accounting_basics",
   "difficulty": 1,
   "question": "A credit increases which account type?",
@@ -674,19 +960,6 @@
   "correctIndex": 0,
   "explanation": "Credits increase revenue, liabilities, and equity; debits increase assets and expenses.",
   "id": "ab26"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "Buying supplies on account creates a…?",
-  "answers": [
-   "Payable",
-   "Receivable",
-   "Prepaid"
-  ],
-  "correctIndex": 0,
-  "explanation": "Purchasing on credit creates an account payable to the supplier.",
-  "id": "ab27"
  },
  {
   "topic": "accounting_basics",
@@ -743,19 +1016,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "Cash sales increase cash and…?",
-  "answers": [
-   "Revenue",
-   "Payables",
-   "Expenses"
-  ],
-  "correctIndex": 0,
-  "explanation": "A cash sale debits cash and credits sales revenue.",
-  "id": "ab32"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
   "question": "Which account is a liability?",
   "answers": [
    "Unearned fees",
@@ -778,19 +1038,6 @@
   "correctIndex": 0,
   "explanation": "Long-lived productive assets like equipment are fixed (noncurrent) assets.",
   "id": "ab34"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "Repaying loan principal reduces cash and…?",
-  "answers": [
-   "Liabilities",
-   "Revenue",
-   "Expenses"
-  ],
-  "correctIndex": 0,
-  "explanation": "Principal repayment shrinks the loan liability; only interest is an expense.",
-  "id": "ab35"
  },
  {
   "topic": "accounting_basics",
@@ -873,19 +1120,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "Interest incurred but unpaid is recorded as interest…?",
-  "answers": [
-   "Payable",
-   "Receivable",
-   "Income"
-  ],
-  "correctIndex": 0,
-  "explanation": "Accrued interest owed is a liability: interest payable.",
-  "id": "ab42"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
   "question": "Which error still lets the trial balance agree?",
   "answers": [
    "Wrong account",
@@ -951,19 +1185,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "A compound journal entry involves…?",
-  "answers": [
-   "3+ accounts",
-   "One account",
-   "No credits"
-  ],
-  "correctIndex": 0,
-  "explanation": "Compound entries touch three or more accounts but still balance.",
-  "id": "ab48"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
   "question": "Freight-in on purchases is added to…?",
   "answers": [
    "Inventory cost",
@@ -973,19 +1194,6 @@
   "correctIndex": 0,
   "explanation": "Costs to bring inventory to saleable condition are part of its cost.",
   "id": "ab49"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Expenses are recognized in the period they help earn…?",
-  "answers": [
-   "Revenue",
-   "Cash",
-   "Assets"
-  ],
-  "correctIndex": 0,
-  "explanation": "That's the matching principle in action.",
-  "id": "ab50"
  },
  {
   "topic": "accounting_basics",
@@ -1015,32 +1223,6 @@
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "An owner investing cash increases cash and…?",
-  "answers": [
-   "Equity",
-   "Revenue",
-   "Liabilities"
-  ],
-  "correctIndex": 0,
-  "explanation": "Owner contributions are equity, not income.",
-  "id": "ab53"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "LIFO in rising prices reports ____ COGS than FIFO.",
-  "answers": [
-   "Higher",
-   "Lower",
-   "Equal"
-  ],
-  "correctIndex": 0,
-  "explanation": "LIFO expenses the newest, costliest units first when prices rise.",
-  "id": "ab54"
- },
- {
-  "topic": "accounting_basics",
   "difficulty": 3,
   "question": "FIFO in rising prices shows ____ ending inventory.",
   "answers": [
@@ -1064,19 +1246,6 @@
   "correctIndex": 0,
   "explanation": "IAS 2 does not permit last-in, first-out.",
   "id": "ab56"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Lower of cost or market applies to…?",
-  "answers": [
-   "Inventory",
-   "Goodwill",
-   "Cash"
-  ],
-  "correctIndex": 0,
-  "explanation": "Inventory is written down when its market value falls below cost.",
-  "id": "ab57"
  },
  {
   "topic": "accounting_basics",
@@ -1116,19 +1285,6 @@
   "correctIndex": 0,
   "explanation": "Interest on funds tied up in building qualifying assets is capitalized.",
   "id": "ab60"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Under accrual, paying 2 years of insurance upfront creates…?",
-  "answers": [
-   "A prepaid asset",
-   "A full expense",
-   "A liability"
-  ],
-  "correctIndex": 0,
-  "explanation": "The payment is an asset, expensed over the coverage period.",
-  "id": "ab61"
  },
  {
   "topic": "accounting_basics",
@@ -1250,32 +1406,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 1,
-  "question": "The period concept divides business life into…?",
-  "answers": [
-   "Time periods",
-   "Departments",
-   "Products"
-  ],
-  "correctIndex": 0,
-  "explanation": "Reporting happens in regular slices: months, quarters, years.",
-  "id": "ab71"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "A fiscal year contains how many months?",
-  "answers": [
-   "12",
-   "6",
-   "18"
-  ],
-  "correctIndex": 0,
-  "explanation": "A fiscal year is any 12-month reporting cycle.",
-  "id": "ab72"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
   "question": "A cash register tape is an example of a source…?",
   "answers": [
    "Document",
@@ -1285,19 +1415,6 @@
   "correctIndex": 0,
   "explanation": "Source documents are the original evidence behind entries.",
   "id": "ab73"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 1,
-  "question": "Office computers are recorded as…?",
-  "answers": [
-   "Assets",
-   "Expenses",
-   "Revenue"
-  ],
-  "correctIndex": 0,
-  "explanation": "Long-lived equipment is capitalized, then depreciated.",
-  "id": "ab74"
  },
  {
   "topic": "accounting_basics",
@@ -1337,71 +1454,6 @@
   "correctIndex": 0,
   "explanation": "Cash basis follows the money, not the earning.",
   "id": "ab77"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Outstanding checks have been recorded but not yet…?",
-  "answers": [
-   "Cashed",
-   "Written",
-   "Approved"
-  ],
-  "correctIndex": 0,
-  "explanation": "They've left your books but haven't cleared the bank.",
-  "id": "ab78"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "A deposit in transit is recorded by you but not yet by the…?",
-  "answers": [
-   "Bank",
-   "Customer",
-   "Auditor"
-  ],
-  "correctIndex": 0,
-  "explanation": "It's on your books, awaiting the bank's processing.",
-  "id": "ab79"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "A customer's bounced (NSF) check ____ your cash balance.",
-  "answers": [
-   "Reduces",
-   "Increases",
-   "Freezes"
-  ],
-  "correctIndex": 0,
-  "explanation": "The deposit reverses; the receivable comes back.",
-  "id": "ab80"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "Unlike open accounts, notes receivable charge…?",
-  "answers": [
-   "Interest",
-   "Fees",
-   "Rent"
-  ],
-  "correctIndex": 0,
-  "explanation": "A promissory note is a formal, interest-bearing claim.",
-  "id": "ab81"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "The maker of a promissory note is the…?",
-  "answers": [
-   "Borrower",
-   "Lender",
-   "Bank"
-  ],
-  "correctIndex": 0,
-  "explanation": "The maker signs and promises to pay; the payee collects.",
-  "id": "ab82"
  },
  {
   "topic": "accounting_basics",
@@ -1497,19 +1549,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 2,
-  "question": "Which account survives onto the post-closing trial balance?",
-  "answers": [
-   "Cash",
-   "Revenue",
-   "Rent expense"
-  ],
-  "correctIndex": 0,
-  "explanation": "Only permanent (balance sheet) accounts remain after closing.",
-  "id": "ab90"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 2,
   "question": "The income summary account is used during…?",
   "answers": [
    "Closing",
@@ -1548,19 +1587,6 @@
  },
  {
   "topic": "accounting_basics",
-  "difficulty": 2,
-  "question": "A worksheet is an optional tool for preparing…?",
-  "answers": [
-   "Statements",
-   "Invoices",
-   "Budgets"
-  ],
-  "correctIndex": 0,
-  "explanation": "It organizes the trial balance through adjustments to statements.",
-  "id": "ab94"
- },
- {
-  "topic": "accounting_basics",
   "difficulty": 3,
   "question": "The direct write-off method violates which principle?",
   "answers": [
@@ -1575,19 +1601,6 @@
  {
   "topic": "accounting_basics",
   "difficulty": 3,
-  "question": "Percentage-of-sales bad debt estimation focuses on the…?",
-  "answers": [
-   "Income stmt",
-   "Balance sheet",
-   "Cash count"
-  ],
-  "correctIndex": 0,
-  "explanation": "It matches expense to the period's sales directly.",
-  "id": "ab96"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
   "question": "Aging of receivables estimates bad debts from…?",
   "answers": [
    "Overdue balances",
@@ -1597,19 +1610,6 @@
   "correctIndex": 0,
   "explanation": "Older receivables get higher loss percentages.",
   "id": "ab97"
- },
- {
-  "topic": "accounting_basics",
-  "difficulty": 3,
-  "question": "Copyrights are expensed over time through…?",
-  "answers": [
-   "Amortization",
-   "Depletion",
-   "Depreciation"
-  ],
-  "correctIndex": 0,
-  "explanation": "Intangibles amortize; tangibles depreciate; resources deplete.",
-  "id": "ab98"
  },
  {
   "topic": "accounting_basics",
@@ -1899,132 +1899,132 @@
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 2,
-  "question": "Project costs $100k, returns $25k/yr — payback period?",
+  "difficulty": 1,
+  "question": "Businesses fail most often from running out of…?",
   "answers": [
-   "4 yrs",
-   "2.5 yrs",
-   "8 yrs"
+   "Cash",
+   "Ideas",
+   "Ink"
   ],
   "correctIndex": 0,
-  "explanation": "Payback = initial cost ÷ annual cash flow.",
+  "explanation": "Profitable firms still die when the cash runs dry.",
   "id": "cf110"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 2,
-  "question": "Project costs $200k, returns $50k/yr — payback period?",
+  "difficulty": 1,
+  "question": "Profit and cash flow are…?",
   "answers": [
-   "4 yrs",
-   "2.5 yrs",
-   "8 yrs"
+   "Different things",
+   "Identical",
+   "Both fiction"
   ],
   "correctIndex": 0,
-  "explanation": "Payback = initial cost ÷ annual cash flow.",
+  "explanation": "Accruals separate earning from receiving.",
   "id": "cf111"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 3,
-  "question": "60% equity at 10%; 40% debt at 5%, tax 25% — WACC?",
+  "difficulty": 1,
+  "question": "Interest on debt is a ____ cost.",
   "answers": [
-   "7.5%",
-   "8%",
-   "10%"
+   "Fixed",
+   "Optional",
+   "Hidden"
   ],
   "correctIndex": 0,
-  "explanation": "WACC = wE×rE + wD×rD×(1−t).",
+  "explanation": "It's owed regardless of how the business performs.",
   "id": "cf112"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 3,
-  "question": "50% equity at 12%; 50% debt at 6%, tax 30% — WACC?",
+  "difficulty": 1,
+  "question": "Equity investors are paid through dividends and…?",
   "answers": [
-   "8.1%",
-   "9%",
-   "12%"
+   "Price gains",
+   "Coupons",
+   "Salaries"
   ],
   "correctIndex": 0,
-  "explanation": "WACC = wE×rE + wD×rD×(1−t).",
+  "explanation": "Total return = income plus appreciation.",
   "id": "cf113"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 2,
-  "question": "Borrowing at 8%, tax rate 25% — after-tax cost of debt?",
+  "question": "Commercial paper suits firms with ____ credit.",
   "answers": [
-   "6%",
-   "8%",
-   "2%"
+   "Strong",
+   "Weak",
+   "No"
   ],
   "correctIndex": 0,
-  "explanation": "After-tax cost of debt = rate × (1 − tax rate).",
+  "explanation": "Only solid names can borrow unsecured short-term.",
   "id": "cf114"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 2,
-  "question": "Borrowing at 6%, tax rate 30% — after-tax cost of debt?",
+  "question": "Bridge loans cover the gap until ____ financing.",
   "answers": [
-   "4.2%",
-   "6%",
-   "1.8%"
+   "Permanent",
+   "Petty",
+   "Foreign"
   ],
   "correctIndex": 0,
-  "explanation": "After-tax cost of debt = rate × (1 − tax rate).",
+  "explanation": "Short-term money bridging to a long-term raise.",
   "id": "cf115"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 3,
-  "question": "Invest $100k; get $121k in 1 yr; r 10% — NPV?",
+  "difficulty": 2,
+  "question": "Mezzanine financing sits between debt and…?",
   "answers": [
-   "$10,000",
-   "$21k",
-   "-$10,000"
+   "Equity",
+   "Cash",
+   "Inventory"
   ],
   "correctIndex": 0,
-  "explanation": "NPV = −investment + cash flow ÷ (1 + r).",
+  "explanation": "Subordinated debt with equity kickers fills the gap.",
   "id": "cf116"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 3,
-  "question": "Invest $200k; get $231k in 1 yr; r 10% — NPV?",
+  "difficulty": 2,
+  "question": "Covenant-lite loans give lenders ____ protection.",
   "answers": [
-   "$10,000",
-   "$31k",
-   "-$10,000"
+   "Less",
+   "More",
+   "Perfect"
   ],
   "correctIndex": 0,
-  "explanation": "NPV = −investment + cash flow ÷ (1 + r).",
+  "explanation": "Fewer restrictions on the borrower means less safety.",
   "id": "cf117"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 2,
-  "question": "8M shares out; issue 2M new — dilution?",
+  "question": "Dividend policy decides how much to ____ shareholders.",
   "answers": [
-   "20%",
-   "25%",
-   "80%"
+   "Return to",
+   "Charge",
+   "Survey"
   ],
   "correctIndex": 0,
-  "explanation": "Dilution = new shares ÷ (old + new shares).",
+  "explanation": "Payout versus reinvestment is the core question.",
   "id": "cf118"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 2,
-  "question": "9M shares out; issue 1M new — dilution?",
+  "question": "A special dividend is…?",
   "answers": [
-   "10%",
-   "11.11%",
-   "90%"
+   "One-time",
+   "Weekly",
+   "Mandatory"
   ],
   "correctIndex": 0,
-  "explanation": "Dilution = new shares ÷ (old + new shares).",
+  "explanation": "An extraordinary payout outside the regular schedule.",
   "id": "cf119"
  },
  {
@@ -2042,80 +2042,80 @@
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 3,
-  "question": "DOL 2; sales rise 10% — EBIT changes by…?",
+  "difficulty": 2,
+  "question": "Share splits mainly improve…?",
   "answers": [
-   "20%",
-   "10%",
-   "12%"
+   "Liquidity",
+   "Earnings",
+   "Margins"
   ],
   "correctIndex": 0,
-  "explanation": "%ΔEBIT = degree of operating leverage × %Δsales.",
+  "explanation": "A lower price per share broadens trading participation.",
   "id": "cf120"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 3,
-  "question": "DOL 3; sales rise 5% — EBIT changes by…?",
+  "question": "IPO underpricing leaves money on the…?",
   "answers": [
-   "15%",
-   "5%",
-   "8%"
+   "Table",
+   "Floor",
+   "Books"
   ],
   "correctIndex": 0,
-  "explanation": "%ΔEBIT = degree of operating leverage × %Δsales.",
+  "explanation": "The first-day pop is value the issuer gave away.",
   "id": "cf121"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 1,
-  "question": "Debt $100k at 6% — annual interest?",
+  "difficulty": 3,
+  "question": "Direct listings skip the traditional…?",
   "answers": [
-   "$6,000",
-   "$500",
-   "$12k"
+   "Underwriters",
+   "Exchange",
+   "Investors"
   ],
   "correctIndex": 0,
-  "explanation": "Interest expense = principal × rate.",
+  "explanation": "Shares list without a bank-run offering.",
   "id": "cf122"
  },
  {
   "topic": "corporate_finance",
-  "difficulty": 1,
-  "question": "Debt $500k at 5% — annual interest?",
+  "difficulty": 3,
+  "question": "SPACs raise money before finding a…?",
   "answers": [
-   "$25k",
-   "$2,083.33",
-   "$50k"
+   "Target",
+   "Logo",
+   "CFO"
   ],
   "correctIndex": 0,
-  "explanation": "Interest expense = principal × rate.",
+  "explanation": "Blank-check companies merge with a target later.",
   "id": "cf123"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 3,
-  "question": "Fixed costs $100k; price $50, variable cost $30 — breakeven units?",
+  "question": "Dual-class shares concentrate…?",
   "answers": [
-   "5,000",
-   "2,000",
-   "3,333"
+   "Control",
+   "Cash",
+   "Debt"
   ],
   "correctIndex": 0,
-  "explanation": "Breakeven units = fixed costs ÷ (price − variable cost).",
+  "explanation": "Super-voting shares keep founders in charge.",
   "id": "cf124"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 3,
-  "question": "Fixed costs $60k; price $20, variable cost $12 — breakeven units?",
+  "question": "Say-on-pay votes let holders weigh in on…?",
   "answers": [
-   "7,500",
-   "3,000",
-   "5,000"
+   "Executive pay",
+   "Dividends",
+   "Logos"
   ],
   "correctIndex": 0,
-  "explanation": "Breakeven units = fixed costs ÷ (price − variable cost).",
+  "explanation": "Advisory votes on compensation packages.",
   "id": "cf125"
  },
  {
@@ -2515,10 +2515,10 @@
   "answers": [
    "Suppliers",
    "Banks",
-   "The SEC"
+   "Regulators"
   ],
   "correctIndex": 0,
-  "explanation": "Buying on account borrows from your vendors.",
+  "explanation": "Buy now, pay in 30-60 days: suppliers finance you interest-free.",
   "id": "cf43"
  },
  {
@@ -3226,27 +3226,27 @@
  {
   "topic": "corporate_finance",
   "difficulty": 3,
-  "question": "Chapter 11 allows firms to ____ while restructuring.",
+  "question": "Court protection lets a troubled firm ____ while restructuring.",
   "answers": [
    "Keep operating",
    "Liquidate",
    "Delist only"
   ],
   "correctIndex": 0,
-  "explanation": "Reorganization continues the business under court protection.",
+  "explanation": "Bankruptcy-protection regimes let businesses keep trading while they reorganise debts.",
   "id": "cf98"
  },
  {
   "topic": "corporate_finance",
   "difficulty": 3,
-  "question": "Chapter 7 leads to…?",
+  "question": "If restructuring fails, an insolvent firm faces…?",
   "answers": [
    "Liquidation",
    "Reorganization",
    "Refinancing"
   ],
   "correctIndex": 0,
-  "explanation": "Assets are sold and the business wound up.",
+  "explanation": "Assets are sold, creditors paid in order of priority, and the company is wound up.",
   "id": "cf99"
  },
  {
@@ -3282,11 +3282,11 @@
   "question": "Futures trade on exchanges; forwards trade…?",
   "answers": [
    "OTC",
-   "On the NYSE",
+   "On an exchange",
    "Nowhere"
   ],
   "correctIndex": 0,
-  "explanation": "Forwards are private over-the-counter contracts, unlike standardized exchange-traded futures."
+  "explanation": "Forwards are private over-the-counter agreements between two parties."
  },
  {
   "id": "de04",
@@ -3473,14 +3473,14 @@
  {
   "topic": "derivatives",
   "difficulty": 3,
-  "question": "Central clearing of swaps was expanded by…?",
+  "question": "Since the 2008 reforms, standard swaps must be cleared…?",
   "answers": [
-   "Dodd-Frank",
-   "Glass-Steagall",
-   "SOX"
+   "Centrally",
+   "Privately",
+   "Never"
   ],
   "correctIndex": 0,
-  "explanation": "Post-2008 reform pushed standard swaps into clearinghouses.",
+  "explanation": "Post-crisis G20 reforms pushed standardised swaps into central clearing houses.",
   "id": "de107"
  },
  {
@@ -3525,131 +3525,131 @@
  {
   "topic": "derivatives",
   "difficulty": 1,
-  "question": "Stock $55, call strike $50 — intrinsic value?",
+  "question": "Insurance is economically similar to buying a…?",
   "answers": [
-   "$5",
-   "$0",
-   "$50"
+   "Put option",
+   "Call option",
+   "Future"
   ],
   "correctIndex": 0,
-  "explanation": "Call intrinsic value = max(spot − strike, 0).",
+  "explanation": "Pay a premium; get paid if disaster strikes.",
   "id": "de110"
  },
  {
   "topic": "derivatives",
   "difficulty": 1,
-  "question": "Stock $60, call strike $45 — intrinsic value?",
+  "question": "A plain bond is NOT a derivative because it has no…?",
   "answers": [
-   "$15",
-   "$0",
-   "$45"
+   "Underlying",
+   "Coupon",
+   "Price"
   ],
   "correctIndex": 0,
-  "explanation": "Call intrinsic value = max(spot − strike, 0).",
+  "explanation": "Its value doesn't derive from another asset.",
   "id": "de111"
  },
  {
   "topic": "derivatives",
   "difficulty": 1,
-  "question": "Stock $45, put strike $50 — intrinsic value?",
+  "question": "Derivatives markets exist to transfer…?",
   "answers": [
-   "$5",
-   "$0",
-   "$45"
+   "Risk",
+   "Buildings",
+   "Staff"
   ],
   "correctIndex": 0,
-  "explanation": "Put intrinsic value = max(strike − spot, 0).",
+  "explanation": "Hedgers shed risk; speculators absorb it.",
   "id": "de112"
  },
  {
   "topic": "derivatives",
   "difficulty": 1,
-  "question": "Stock $30, put strike $40 — intrinsic value?",
+  "question": "The two basic option types are calls and…?",
   "answers": [
-   "$10",
-   "$0",
-   "$30"
+   "Puts",
+   "Pulls",
+   "Pushes"
   ],
   "correctIndex": 0,
-  "explanation": "Put intrinsic value = max(strike − spot, 0).",
+  "explanation": "Rights to buy (calls) or sell (puts).",
   "id": "de113"
  },
  {
   "topic": "derivatives",
   "difficulty": 2,
-  "question": "Call strike $50, premium $3 — breakeven at expiry?",
+  "question": "Option chains list strikes and…?",
   "answers": [
-   "$53",
-   "$47",
-   "$50"
+   "Expiries",
+   "Salaries",
+   "Auditors"
   ],
   "correctIndex": 0,
-  "explanation": "Call breakeven = strike + premium paid.",
+  "explanation": "The grid of available strikes across expiration dates.",
   "id": "de114"
  },
  {
   "topic": "derivatives",
   "difficulty": 2,
-  "question": "Call strike $100, premium $5 — breakeven at expiry?",
+  "question": "Higher-strike calls cost…?",
   "answers": [
-   "$105",
-   "$95",
-   "$100"
+   "Less",
+   "More",
+   "The same"
   ],
   "correctIndex": 0,
-  "explanation": "Call breakeven = strike + premium paid.",
+  "explanation": "The right to buy at a worse price is worth less.",
   "id": "de115"
  },
  {
   "topic": "derivatives",
-  "difficulty": 3,
-  "question": "Put strike $50, premium $3 — breakeven at expiry?",
+  "difficulty": 2,
+  "question": "Lower-strike puts cost…?",
   "answers": [
-   "$47",
-   "$53",
-   "$50"
+   "Less",
+   "More",
+   "Par"
   ],
   "correctIndex": 0,
-  "explanation": "Put breakeven = strike − premium paid.",
+  "explanation": "The right to sell at a worse price is worth less.",
   "id": "de116"
  },
  {
   "topic": "derivatives",
-  "difficulty": 3,
-  "question": "Put strike $100, premium $6 — breakeven at expiry?",
+  "difficulty": 2,
+  "question": "Covered calls generate…?",
   "answers": [
-   "$94",
-   "$106",
-   "$100"
+   "Income",
+   "Unlimited gains",
+   "Free stock"
   ],
   "correctIndex": 0,
-  "explanation": "Put breakeven = strike − premium paid.",
+  "explanation": "Premium income in exchange for capped upside.",
   "id": "de117"
  },
  {
   "topic": "derivatives",
   "difficulty": 2,
-  "question": "Call strike $50, premium $4; stock ends $60 — P&L?",
+  "question": "A protective put works like…?",
   "answers": [
-   "$6",
-   "$10",
-   "$-4"
+   "Insurance",
+   "Leverage",
+   "Dividends"
   ],
   "correctIndex": 0,
-  "explanation": "Long call P&L = max(spot − strike, 0) − premium.",
+  "explanation": "It floors your losses for a premium.",
   "id": "de118"
  },
  {
   "topic": "derivatives",
   "difficulty": 2,
-  "question": "Call strike $100, premium $6; stock ends $110 — P&L?",
+  "question": "Cash-settled options never deliver…?",
   "answers": [
-   "$4",
-   "$10",
-   "$-6"
+   "Shares",
+   "Cash",
+   "Profits"
   ],
   "correctIndex": 0,
-  "explanation": "Long call P&L = max(spot − strike, 0) − premium.",
+  "explanation": "Only the cash difference changes hands.",
   "id": "de119"
  },
  {
@@ -3667,80 +3667,80 @@
  },
  {
   "topic": "derivatives",
-  "difficulty": 3,
-  "question": "Own stock at $50; sell $55 call for $2 — max profit/share?",
+  "difficulty": 2,
+  "question": "The contract multiplier converts option points into…?",
   "answers": [
-   "$7",
-   "$2",
-   "$5"
+   "Dollars",
+   "Shares",
+   "Percent"
   ],
   "correctIndex": 0,
-  "explanation": "Covered call max profit = (strike − cost basis) + premium.",
+  "explanation": "A $1 move × 100 multiplier = $100 per contract.",
   "id": "de120"
  },
  {
   "topic": "derivatives",
   "difficulty": 3,
-  "question": "Own stock at $40; sell $45 call for $1.5 — max profit/share?",
+  "question": "Dividends generally make calls ____ valuable.",
   "answers": [
-   "$6.5",
-   "$1.5",
-   "$5"
+   "Less",
+   "More",
+   "Equally"
   ],
   "correctIndex": 0,
-  "explanation": "Covered call max profit = (strike − cost basis) + premium.",
+  "explanation": "The expected ex-dividend price drop hurts calls.",
   "id": "de121"
  },
  {
   "topic": "derivatives",
-  "difficulty": 2,
-  "question": "Long futures at 100, exit 110, multiplier 50 — P&L?",
+  "difficulty": 3,
+  "question": "Rate rises generally make calls ____ valuable.",
   "answers": [
-   "$500",
-   "-$500",
-   "$1,000"
+   "More",
+   "Less",
+   "Equally"
   ],
   "correctIndex": 0,
-  "explanation": "Futures P&L = (exit − entry) × contract multiplier.",
+  "explanation": "Positive rho: carrying the hedge gets cheaper.",
   "id": "de122"
  },
  {
   "topic": "derivatives",
-  "difficulty": 2,
-  "question": "Long futures at 2000, exit 2040, multiplier 50 — P&L?",
+  "difficulty": 3,
+  "question": "Sticky-strike vs sticky-delta describe ____ behavior.",
   "answers": [
-   "$2,000",
-   "-$2,000",
-   "$4,000"
+   "Skew",
+   "Margin",
+   "Fee"
   ],
   "correctIndex": 0,
-  "explanation": "Futures P&L = (exit − entry) × contract multiplier.",
+  "explanation": "Two models of how the vol surface moves with spot.",
   "id": "de123"
  },
  {
   "topic": "derivatives",
   "difficulty": 3,
-  "question": "Own stock at $50; buy $45 put for $2 — max loss/share?",
+  "question": "Gamma squeezes are amplified by dealer…?",
   "answers": [
-   "$7",
-   "$2",
-   "$5"
+   "Hedging",
+   "Vacations",
+   "Audits"
   ],
   "correctIndex": 0,
-  "explanation": "Protective put max loss = (cost basis − strike) + premium.",
+  "explanation": "Dealers buying into a rally push the price further.",
   "id": "de124"
  },
  {
   "topic": "derivatives",
   "difficulty": 3,
-  "question": "Own stock at $100; buy $95 put for $3 — max loss/share?",
+  "question": "Portfolio margining nets risk across…?",
   "answers": [
-   "$8",
-   "$3",
-   "$5"
+   "Positions",
+   "Brokers",
+   "Decades"
   ],
   "correctIndex": 0,
-  "explanation": "Protective put max loss = (cost basis − strike) + premium.",
+  "explanation": "Offsetting positions lower the total margin required.",
   "id": "de125"
  },
  {
@@ -3941,14 +3941,14 @@
  {
   "topic": "derivatives",
   "difficulty": 1,
-  "question": "One equity option contract usually covers ____ shares.",
+  "question": "Option contracts trade in standard sizes called…?",
   "answers": [
-   "100",
-   "10",
-   "1,000"
+   "Lots",
+   "Reams",
+   "Pinches"
   ],
   "correctIndex": 0,
-  "explanation": "Standard US equity options are for 100 shares.",
+  "explanation": "Exchanges standardise contract sizes — one lot covers a fixed number of shares.",
   "id": "de28"
  },
  {
@@ -4917,14 +4917,14 @@
   "id": "fs04",
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "Under US GAAP, dividends paid sit in which CF section?",
+  "question": "Dividends paid most commonly sit in which CF section?",
   "answers": [
    "Financing",
    "Operating",
    "Investing"
   ],
   "correctIndex": 0,
-  "explanation": "US GAAP classifies dividends paid to shareholders as a financing outflow."
+  "explanation": "Paying owners is a financing flow in most presentations (IFRS also allows operating)."
  },
  {
   "id": "fs05",
@@ -4982,14 +4982,14 @@
   "id": "fs09",
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "Under US GAAP, interest paid usually sits in which CF section?",
+  "question": "Interest paid most commonly sits in which CF section?",
   "answers": [
    "Operating",
    "Financing",
    "Investing"
   ],
   "correctIndex": 0,
-  "explanation": "US GAAP classifies interest paid as an operating cash flow."
+  "explanation": "Interest paid is usually shown in operating cash flow (IFRS also allows financing)."
  },
  {
   "id": "fs10",
@@ -5046,27 +5046,27 @@
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "Revenue under ASC 606 is recognized when control…?",
+  "question": "Revenue is recognized when ____ of goods transfers.",
   "answers": [
-   "Transfers",
-   "Reverses",
-   "Expires"
+   "Control",
+   "Paper",
+   "Freight"
   ],
   "correctIndex": 0,
-  "explanation": "Transfer of control, not delivery paperwork, triggers revenue.",
+  "explanation": "The five-step revenue model centres on the transfer of control to the customer.",
   "id": "fs103"
  },
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "ASC 606's revenue model has how many steps?",
+  "question": "The modern revenue standard uses a ____-step model.",
   "answers": [
-   "5",
-   "3",
-   "9"
+   "Five",
+   "Two",
+   "Twelve"
   ],
   "correctIndex": 0,
-  "explanation": "Contract, obligations, price, allocation, recognition.",
+  "explanation": "Identify contract, obligations, price; allocate; recognize — five steps.",
   "id": "fs104"
  },
  {
@@ -5150,131 +5150,105 @@
  {
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "Revenue $500k, COGS $300k — gross profit?",
+  "question": "COGS appears just below…?",
   "answers": [
-   "$200k",
-   "$800k",
-   "$300k"
+   "Revenue",
+   "Net income",
+   "Equity"
   ],
   "correctIndex": 0,
-  "explanation": "Gross profit = revenue − cost of goods sold.",
+  "explanation": "Revenue minus COGS gives gross profit.",
   "id": "fs110"
  },
  {
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "Revenue $200k, COGS $120k — gross profit?",
+  "question": "Land in use appears under…?",
   "answers": [
-   "$80k",
-   "$320k",
-   "$120k"
+   "PP&E",
+   "Inventory",
+   "Equity"
   ],
   "correctIndex": 0,
-  "explanation": "Gross profit = revenue − cost of goods sold.",
-  "id": "fs111"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Operating CF $100k, capex $40k — free cash flow?",
-  "answers": [
-   "$60k",
-   "$140k",
-   "$40k"
-  ],
-  "correctIndex": 0,
-  "explanation": "Free cash flow = operating cash flow − capital expenditures.",
+  "explanation": "Property, plant, and equipment holds operating land.",
   "id": "fs112"
  },
  {
   "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Operating CF $250k, capex $100k — free cash flow?",
+  "difficulty": 1,
+  "question": "Which statement has three activity sections?",
   "answers": [
-   "$150k",
-   "$350k",
-   "$100k"
+   "Cash flow stmt",
+   "Balance sheet",
+   "Income stmt"
   ],
   "correctIndex": 0,
-  "explanation": "Free cash flow = operating cash flow − capital expenditures.",
+  "explanation": "Operating, investing, and financing.",
   "id": "fs113"
  },
  {
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "Gross profit $200k, operating expenses $120k — operating income?",
+  "question": "Supplies still on hand at year-end are reported as…?",
   "answers": [
-   "$80k",
-   "$320k",
-   "$120k"
+   "An asset",
+   "An expense",
+   "Revenue"
   ],
   "correctIndex": 0,
-  "explanation": "Operating income = gross profit − operating expenses.",
+  "explanation": "Unused supplies remain an asset until consumed.",
   "id": "fs114"
  },
  {
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "Gross profit $500k, operating expenses $350k — operating income?",
+  "question": "Gains differ from revenues by arising from ____ activities.",
   "answers": [
-   "$150k",
-   "$850k",
-   "$350k"
+   "Peripheral",
+   "Core",
+   "Illegal"
   ],
   "correctIndex": 0,
-  "explanation": "Operating income = gross profit − operating expenses.",
-  "id": "fs115"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 3,
-  "question": "CFO $100k, CFI -$60k, CFF $20k — change in cash?",
-  "answers": [
-   "$60k",
-   "$140k",
-   "$100k"
-  ],
-  "correctIndex": 0,
-  "explanation": "Net change in cash = operating + investing + financing cash flows.",
+  "explanation": "Selling old equipment isn't the business's main trade.",
   "id": "fs116"
  },
  {
   "topic": "financial_statements",
-  "difficulty": 3,
-  "question": "CFO $200k, CFI -$150k, CFF $30k — change in cash?",
+  "difficulty": 2,
+  "question": "Which combines with retained earnings inside equity?",
   "answers": [
-   "$80k",
-   "$320k",
-   "$200k"
+   "Paid-in capital",
+   "Payables",
+   "COGS"
   ],
   "correctIndex": 0,
-  "explanation": "Net change in cash = operating + investing + financing cash flows.",
+  "explanation": "Contributed capital plus accumulated earnings make up equity.",
   "id": "fs117"
  },
  {
   "topic": "financial_statements",
-  "difficulty": 1,
-  "question": "Liabilities $200k, equity $300k — total assets?",
+  "difficulty": 2,
+  "question": "Working capital is computed from which statement's data?",
   "answers": [
-   "$500k",
-   "$100k",
-   "$300k"
+   "Balance sheet",
+   "Income stmt",
+   "Neither"
   ],
   "correctIndex": 0,
-  "explanation": "Assets = liabilities + equity.",
+  "explanation": "Current assets and current liabilities both live there.",
   "id": "fs118"
  },
  {
   "topic": "financial_statements",
-  "difficulty": 1,
-  "question": "Liabilities $150k, equity $100k — total assets?",
+  "difficulty": 2,
+  "question": "A statement audit provides ____ assurance.",
   "answers": [
-   "$250k",
-   "$50k",
-   "$100k"
+   "Reasonable",
+   "Absolute",
+   "No"
   ],
   "correctIndex": 0,
-  "explanation": "Assets = liabilities + equity.",
+  "explanation": "Audits give reasonable, not absolute, assurance.",
   "id": "fs119"
  },
  {
@@ -5293,80 +5267,80 @@
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "EBIT $100k, D&A $30k — EBITDA?",
+  "question": "Who is primarily responsible for internal controls?",
   "answers": [
-   "$130k",
-   "$70k",
-   "$30k"
+   "Management",
+   "The auditors",
+   "The press"
   ],
   "correctIndex": 0,
-  "explanation": "EBITDA adds depreciation & amortization back to operating profit.",
-  "id": "fs120"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 3,
-  "question": "EBIT $250k, D&A $60k — EBITDA?",
-  "answers": [
-   "$310k",
-   "$190k",
-   "$60k"
-  ],
-  "correctIndex": 0,
-  "explanation": "EBITDA adds depreciation & amortization back to operating profit.",
-  "id": "fs121"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Net income $50k, revenue $500k — net margin?",
-  "answers": [
-   "10%",
-   "20%",
-   "5%"
-  ],
-  "correctIndex": 0,
-  "explanation": "Net margin = net income ÷ revenue.",
+  "explanation": "Management designs and maintains controls; auditors evaluate them.",
   "id": "fs122"
  },
  {
   "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Net income $30k, revenue $200k — net margin?",
+  "difficulty": 3,
+  "question": "Restating past statements is required for…?",
   "answers": [
-   "15%",
-   "30%",
-   "7.5%"
+   "Material errors",
+   "Estimate changes",
+   "Small typos"
   ],
   "correctIndex": 0,
-  "explanation": "Net margin = net income ÷ revenue.",
+  "explanation": "Errors restate history; estimate changes apply prospectively.",
   "id": "fs123"
  },
  {
+  "id": "fs126",
   "topic": "financial_statements",
-  "difficulty": 3,
-  "question": "Net income $100k, OCI $20k — comprehensive income?",
+  "difficulty": 1,
+  "question": "A photocopier used in the office is…?",
   "answers": [
-   "$120k",
-   "$80k",
-   "$100k"
+   "An asset",
+   "An expense",
+   "Revenue"
   ],
   "correctIndex": 0,
-  "explanation": "Comprehensive income = net income + other comprehensive income.",
-  "id": "fs124"
+  "explanation": "Long-lived items used in the business are assets, then depreciated."
  },
  {
+  "id": "fs127",
   "topic": "financial_statements",
-  "difficulty": 3,
-  "question": "Net income $250k, OCI -$30k — comprehensive income?",
+  "difficulty": 1,
+  "question": "Unsold goods at year-end are reported as…?",
   "answers": [
-   "$220k",
-   "$280k",
-   "$250k"
+   "Inventory",
+   "Revenue",
+   "An expense"
   ],
   "correctIndex": 0,
-  "explanation": "Comprehensive income = net income + other comprehensive income.",
-  "id": "fs125"
+  "explanation": "Goods become an expense (COGS) only when sold; until then they're inventory."
+ },
+ {
+  "id": "fs128",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Money the business owes suppliers is…?",
+  "answers": [
+   "A liability",
+   "An asset",
+   "Equity"
+  ],
+  "correctIndex": 0,
+  "explanation": "Unpaid supplier bills are accounts payable — a liability."
+ },
+ {
+  "id": "fs129",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "The owner's stake in the business is called…?",
+  "answers": [
+   "Equity",
+   "Debt",
+   "Overhead"
+  ],
+  "correctIndex": 0,
+  "explanation": "Equity is what's left of the assets after all liabilities."
  },
  {
   "id": "fs13",
@@ -5382,6 +5356,136 @@
   "explanation": "The one-year (or operating cycle) test separates current from noncurrent."
  },
  {
+  "id": "fs130",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "A delivery van appears on which statement?",
+  "answers": [
+   "Balance sheet",
+   "Income stmt",
+   "Neither"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vehicles are assets — they sit on the balance sheet."
+ },
+ {
+  "id": "fs131",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "A profit for the year makes equity…?",
+  "answers": [
+   "Grow",
+   "Shrink",
+   "Vanish"
+  ],
+  "correctIndex": 0,
+  "explanation": "Profits flow into retained earnings, growing equity."
+ },
+ {
+  "id": "fs132",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "A loss means expenses were ____ revenue.",
+  "answers": [
+   "More than",
+   "Less than",
+   "Equal to"
+  ],
+  "correctIndex": 0,
+  "explanation": "Spend more than you earn and the bottom line is negative."
+ },
+ {
+  "id": "fs133",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Cash collected from customers sits in ____ cash flow.",
+  "answers": [
+   "Operating",
+   "Financing",
+   "Investing"
+  ],
+  "correctIndex": 0,
+  "explanation": "Day-to-day trading cash belongs to operating activities."
+ },
+ {
+  "id": "fs134",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Profit is revenue minus…?",
+  "answers": [
+   "Expenses",
+   "Assets",
+   "Cash"
+  ],
+  "correctIndex": 0,
+  "explanation": "The income statement in one line: revenue − expenses = profit."
+ },
+ {
+  "id": "fs135",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Which statement links opening and closing cash?",
+  "answers": [
+   "Cash flow stmt",
+   "Income stmt",
+   "Equity stmt"
+  ],
+  "correctIndex": 0,
+  "explanation": "The cash flow statement explains how cash moved during the period."
+ },
+ {
+  "id": "fs136",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Notes to the accounts give readers…?",
+  "answers": [
+   "Extra detail",
+   "Decoration",
+   "Coupons"
+  ],
+  "correctIndex": 0,
+  "explanation": "The notes expand on policies, breakdowns, and risks behind the numbers."
+ },
+ {
+  "id": "fs137",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Interest on a loan is reported as…?",
+  "answers": [
+   "An expense",
+   "An asset",
+   "Equity"
+  ],
+  "correctIndex": 0,
+  "explanation": "Borrowing costs hit the income statement as an expense."
+ },
+ {
+  "id": "fs138",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "The income statement is also called the ____ statement.",
+  "answers": [
+   "Profit and loss",
+   "Position",
+   "Audit"
+  ],
+  "correctIndex": 0,
+  "explanation": "P&L and income statement are two names for the same report."
+ },
+ {
+  "id": "fs139",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Rent received from tenants is recorded as…?",
+  "answers": [
+   "Income",
+   "An expense",
+   "A liability"
+  ],
+  "correctIndex": 0,
+  "explanation": "Money earned from letting property is income."
+ },
+ {
   "id": "fs14",
   "topic": "financial_statements",
   "difficulty": 2,
@@ -5395,17 +5499,56 @@
   "explanation": "Goodwill is the purchase price paid above the fair value of net assets acquired."
  },
  {
+  "id": "fs140",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "A computer bought for resale by a computer shop is…?",
+  "answers": [
+   "Inventory",
+   "Equipment",
+   "An expense"
+  ],
+  "correctIndex": 0,
+  "explanation": "Classification depends on use: goods held for sale are inventory."
+ },
+ {
+  "id": "fs141",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Machinery is usually a ____ asset.",
+  "answers": [
+   "Non-current",
+   "Current",
+   "Imaginary"
+  ],
+  "correctIndex": 0,
+  "explanation": "Machines serve the business for years — non-current."
+ },
+ {
+  "id": "fs142",
+  "topic": "financial_statements",
+  "difficulty": 1,
+  "question": "Cash and inventory are examples of ____ assets.",
+  "answers": [
+   "Current",
+   "Non-current",
+   "Intangible"
+  ],
+  "correctIndex": 0,
+  "explanation": "Both convert to cash within the year — current assets."
+ },
+ {
   "id": "fs15",
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "Under US GAAP, goodwill is…?",
+  "question": "Purchased goodwill is not amortized — instead it is…?",
   "answers": [
    "Tested yearly",
    "Amortized 10yrs",
    "Expensed"
   ],
   "correctIndex": 0,
-  "explanation": "US GAAP tests goodwill for impairment at least annually instead of amortizing it."
+  "explanation": "Goodwill sits on the balance sheet and is tested for impairment at least annually."
  },
  {
   "id": "fs16",
@@ -5463,27 +5606,27 @@
   "id": "fs20",
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "US public companies file quarterly reports called…?",
+  "question": "The once-a-year report to shareholders is the ____ report.",
   "answers": [
-   "10-Q",
-   "10-K",
-   "S-1"
+   "Annual",
+   "Weekly",
+   "Secret"
   ],
   "correctIndex": 0,
-  "explanation": "The 10-Q is the quarterly filing; the 10-K is annual."
+  "explanation": "The annual report carries the audited statements, notes, and management commentary."
  },
  {
   "id": "fs21",
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "The annual US public-company filing is the…?",
+  "question": "Which report contains the audited financial statements?",
   "answers": [
-   "10-K",
-   "10-Q",
-   "8-K"
+   "Annual report",
+   "Press release",
+   "Sales brochure"
   ],
   "correctIndex": 0,
-  "explanation": "The 10-K is the audited annual report filed with the SEC."
+  "explanation": "The annual report is where the audited statements live."
  },
  {
   "id": "fs22",
@@ -5579,19 +5722,6 @@
  {
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "Buying another firm's bonds sits in which CF section?",
-  "answers": [
-   "Investing",
-   "Operating",
-   "Financing"
-  ],
-  "correctIndex": 0,
-  "explanation": "Purchases of investment securities are investing outflows.",
-  "id": "fs29"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
   "question": "The bottom line of the income statement is…?",
   "answers": [
    "Net income",
@@ -5605,41 +5735,15 @@
  {
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "Common stock appears in which balance sheet section?",
-  "answers": [
-   "Equity",
-   "Liabilities",
-   "Assets"
-  ],
-  "correctIndex": 0,
-  "explanation": "Contributed capital is part of shareholders' equity.",
-  "id": "fs31"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
   "question": "Which report shows equity movements for the period?",
   "answers": [
    "Equity statement",
-   "The 10-K cover",
-   "The ledger"
+   "The cash ledger",
+   "The tax return"
   ],
   "correctIndex": 0,
-  "explanation": "The statement of changes in equity tracks capital, RE, and OCI.",
+  "explanation": "The statement of changes in equity tracks share capital, reserves, and retained profits.",
   "id": "fs32"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
-  "question": "Rent expense reduces which statement's bottom line?",
-  "answers": [
-   "Income stmt",
-   "Balance sheet",
-   "Neither"
-  ],
-  "correctIndex": 0,
-  "explanation": "Expenses flow through the income statement to reduce net income.",
-  "id": "fs33"
  },
  {
   "topic": "financial_statements",
@@ -5666,19 +5770,6 @@
   "correctIndex": 0,
   "explanation": "Buildings serve the business for many years.",
   "id": "fs35"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
-  "question": "Depreciation expense appears on the…?",
-  "answers": [
-   "Income stmt",
-   "Bank statement",
-   "Cash budget"
-  ],
-  "correctIndex": 0,
-  "explanation": "It's a non-cash expense reported on the income statement.",
-  "id": "fs36"
  },
  {
   "topic": "financial_statements",
@@ -5761,27 +5852,27 @@
  {
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "Dividends received (US GAAP) usually sit in ____ cash flow.",
+  "question": "Dividends received most commonly sit in ____ cash flow.",
   "answers": [
    "Operating",
    "Financing",
    "Investing"
   ],
   "correctIndex": 0,
-  "explanation": "US GAAP classifies dividends received as operating inflows.",
+  "explanation": "Dividends received are usually operating inflows (IFRS also allows investing).",
   "id": "fs43"
  },
  {
   "topic": "financial_statements",
   "difficulty": 2,
-  "question": "An 8-K filing reports…?",
+  "question": "Companies must promptly disclose ____ to investors.",
   "answers": [
    "Major events",
    "Routine payroll",
-   "Board minutes"
+   "Board lunches"
   ],
   "correctIndex": 0,
-  "explanation": "8-Ks disclose material events between periodic reports.",
+  "explanation": "Market rules require timely disclosure of price-sensitive events.",
   "id": "fs44"
  },
  {
@@ -5796,19 +5887,6 @@
   "correctIndex": 0,
   "explanation": "Returns and allowances are netted against gross sales.",
   "id": "fs45"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Which subtotal comes first on the income statement?",
-  "answers": [
-   "Gross profit",
-   "Operating income",
-   "Net income"
-  ],
-  "correctIndex": 0,
-  "explanation": "Gross profit precedes operating income, which precedes net income.",
-  "id": "fs46"
  },
  {
   "topic": "financial_statements",
@@ -5890,19 +5968,6 @@
  },
  {
   "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Restricted cash to be used within a year is shown as…?",
-  "answers": [
-   "A current asset",
-   "Equity",
-   "Revenue"
-  ],
-  "correctIndex": 0,
-  "explanation": "Classification follows when the restriction lifts.",
-  "id": "fs53"
- },
- {
-  "topic": "financial_statements",
   "difficulty": 3,
   "question": "Noncontrolling interest appears within…?",
   "answers": [
@@ -5956,14 +6021,14 @@
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "Under ASC 842, operating leases add which asset?",
+  "question": "Under new lease rules, operating leases add which asset?",
   "answers": [
    "Right-of-use",
    "Goodwill",
    "Inventory"
   ],
   "correctIndex": 0,
-  "explanation": "Lessees book a right-of-use asset and a lease liability.",
+  "explanation": "Lessees put a right-of-use asset and a lease liability on the balance sheet.",
   "id": "fs58"
  },
  {
@@ -5982,14 +6047,14 @@
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "R&D costs under US GAAP are generally…?",
+  "question": "Under IFRS, research costs are generally…?",
   "answers": [
    "Expensed",
    "Capitalized",
    "Deferred"
   ],
   "correctIndex": 0,
-  "explanation": "US GAAP expenses R&D as incurred (with narrow exceptions).",
+  "explanation": "Research is expensed as incurred; only development meeting strict tests is capitalized.",
   "id": "fs60"
  },
  {
@@ -6151,32 +6216,6 @@
  {
   "topic": "financial_statements",
   "difficulty": 1,
-  "question": "Cash is usually the ____ asset listed.",
-  "answers": [
-   "First",
-   "Last",
-   "Hidden"
-  ],
-  "correctIndex": 0,
-  "explanation": "Balance sheets order assets by liquidity, cash first.",
-  "id": "fs73"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
-  "question": "Every statement heading shows company, title and…?",
-  "answers": [
-   "Date or period",
-   "Auditor",
-   "Font"
-  ],
-  "correctIndex": 0,
-  "explanation": "Who, what, and when — the standard three-line heading.",
-  "id": "fs74"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 1,
   "question": "Interest expense appears ____ operating income.",
   "answers": [
    "Below",
@@ -6225,32 +6264,6 @@
   "correctIndex": 0,
   "explanation": "Debt repayment is a financing activity.",
   "id": "fs78"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Collecting a customer receivable is an ____ inflow.",
-  "answers": [
-   "Operating",
-   "Investing",
-   "Financing"
-  ],
-  "correctIndex": 0,
-  "explanation": "Customer collections are core operating cash.",
-  "id": "fs79"
- },
- {
-  "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Buying land for cash is an ____ outflow.",
-  "answers": [
-   "Investing",
-   "Operating",
-   "Financing"
-  ],
-  "correctIndex": 0,
-  "explanation": "Acquiring long-term assets is investing activity.",
-  "id": "fs80"
  },
  {
   "topic": "financial_statements",
@@ -6436,19 +6449,6 @@
  },
  {
   "topic": "financial_statements",
-  "difficulty": 2,
-  "question": "Statement notes are ____ part of the financials.",
-  "answers": [
-   "An integral",
-   "An optional",
-   "No"
-  ],
-  "correctIndex": 0,
-  "explanation": "The notes carry required detail and are audited too.",
-  "id": "fs95"
- },
- {
-  "topic": "financial_statements",
   "difficulty": 3,
   "question": "Discontinued operations are reported…?",
   "answers": [
@@ -6463,14 +6463,14 @@
  {
   "topic": "financial_statements",
   "difficulty": 3,
-  "question": "Extraordinary items under current US GAAP are…?",
+  "question": "One-off 'extraordinary' line items are now…?",
   "answers": [
-   "Eliminated",
+   "Not allowed",
    "Required",
    "In OCI"
   ],
   "correctIndex": 0,
-  "explanation": "The category was removed from US GAAP in 2015.",
+  "explanation": "Modern standards abolished the separate extraordinary-items category.",
   "id": "fs97"
  },
  {
@@ -6607,14 +6607,14 @@
   "id": "fi09",
   "topic": "fixed_income",
   "difficulty": 1,
-  "question": "A typical US corporate bond's par value is…?",
+  "question": "Bonds are typically issued in standard units called…?",
   "answers": [
-   "$1,000",
-   "$100",
-   "$10,000"
+   "Denominations",
+   "Perfumes",
+   "Chapters"
   ],
   "correctIndex": 0,
-  "explanation": "Corporate bonds are conventionally issued in $1,000 face amounts."
+  "explanation": "Bonds sell in round denominations; prices quote as a percentage of par."
  },
  {
   "id": "fi10",
@@ -6775,131 +6775,131 @@
  {
   "topic": "fixed_income",
   "difficulty": 1,
-  "question": "5% coupon, $1,000 par — annual interest?",
+  "question": "Bond funds pay investors through…?",
   "answers": [
-   "$50",
-   "$25",
-   "$200"
+   "Distributions",
+   "Stock splits",
+   "Rent"
   ],
   "correctIndex": 0,
-  "explanation": "Annual coupon = coupon rate × par value.",
+  "explanation": "Interest collected is passed through as distributions.",
   "id": "fi110"
  },
  {
   "topic": "fixed_income",
   "difficulty": 1,
-  "question": "6% coupon, $1,000 par — annual interest?",
+  "question": "The coupon rate is quoted per…?",
   "answers": [
-   "$60",
-   "$30",
-   "$166.67"
+   "Year",
+   "Month",
+   "Trade"
   ],
   "correctIndex": 0,
-  "explanation": "Annual coupon = coupon rate × par value.",
+  "explanation": "Annual rate, even when paid semiannually.",
   "id": "fi111"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 2,
-  "question": "Coupon $60/yr, price $1,000 — current yield?",
+  "difficulty": 1,
+  "question": "Compared with stocks, bonds are generally…?",
   "answers": [
-   "6%",
-   "3%",
-   "12%"
+   "Less volatile",
+   "More volatile",
+   "Identical"
   ],
   "correctIndex": 0,
-  "explanation": "Current yield = annual coupon ÷ market price.",
+  "explanation": "Fixed claims swing less than residual claims.",
   "id": "fi112"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 2,
-  "question": "Coupon $50/yr, price $800 — current yield?",
+  "difficulty": 1,
+  "question": "Bank CDs resemble bonds but are usually…?",
   "answers": [
-   "6.25%",
-   "3.12%",
-   "12.5%"
+   "Insured",
+   "Riskier",
+   "Listed"
   ],
   "correctIndex": 0,
-  "explanation": "Current yield = annual coupon ÷ market price.",
+  "explanation": "Deposit insurance covers CDs up to the limit.",
   "id": "fi113"
  },
  {
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "Coupon 6%, YTM 4% — the bond trades at…?",
+  "question": "Callable bonds pay ____ yields than straight bonds.",
   "answers": [
-   "A premium",
-   "A discount",
-   "Par"
+   "Higher",
+   "Lower",
+   "Equal"
   ],
   "correctIndex": 0,
-  "explanation": "Coupon above YTM → premium; below → discount; equal → par.",
+  "explanation": "Investors demand payment for the issuer's call right.",
   "id": "fi114"
  },
  {
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "Coupon 3%, YTM 5% — the bond trades at…?",
+  "question": "Convertible bonds pay ____ coupons than straight debt.",
   "answers": [
-   "A discount",
-   "A premium",
-   "Par"
+   "Lower",
+   "Higher",
+   "No"
   ],
   "correctIndex": 0,
-  "explanation": "Coupon above YTM → premium; below → discount; equal → par.",
+  "explanation": "The conversion option is part of the compensation.",
   "id": "fi115"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 3,
-  "question": "Duration 5; yields rise 1% — approx. price change?",
+  "difficulty": 2,
+  "question": "Zeroes are volatile because all value sits at…?",
   "answers": [
-   "-5%",
-   "5%",
-   "-2.5%"
+   "Maturity",
+   "Issue",
+   "Coupons"
   ],
   "correctIndex": 0,
-  "explanation": "Price change ≈ −duration × yield change.",
+  "explanation": "One distant payment means maximum rate sensitivity.",
   "id": "fi116"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 3,
-  "question": "Duration 7; yields rise 0.5% — approx. price change?",
+  "difficulty": 2,
+  "question": "Ladders avoid reinvesting everything at a…?",
   "answers": [
-   "-3.5%",
-   "3.5%",
-   "-1.75%"
+   "Bad time",
+   "Profit",
+   "Premium"
   ],
   "correctIndex": 0,
-  "explanation": "Price change ≈ −duration × yield change.",
+  "explanation": "Staggered maturities spread reinvestment timing risk.",
   "id": "fi117"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 3,
-  "question": "Taxable bond yields 8%; tax rate 25% — after-tax yield?",
+  "difficulty": 2,
+  "question": "General obligation munis are backed by…?",
   "answers": [
-   "6%",
-   "8%",
-   "2%"
+   "Taxes",
+   "Tolls",
+   "Tickets"
   ],
   "correctIndex": 0,
-  "explanation": "After-tax yield = pre-tax yield × (1 − tax rate).",
+  "explanation": "The issuer's full taxing power stands behind them.",
   "id": "fi118"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 3,
-  "question": "Taxable bond yields 6%; tax rate 30% — after-tax yield?",
+  "difficulty": 2,
+  "question": "Revenue munis are repaid from…?",
   "answers": [
-   "4.2%",
-   "6%",
-   "1.8%"
+   "Project income",
+   "Income taxes",
+   "Donations"
   ],
   "correctIndex": 0,
-  "explanation": "After-tax yield = pre-tax yield × (1 − tax rate).",
+  "explanation": "The financed project's own cash flows service the debt.",
   "id": "fi119"
  },
  {
@@ -6918,79 +6918,79 @@
  {
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "6% coupon, $1,000 par, paid semiannually — each payment?",
+  "question": "Bond insurance transfers ____ risk.",
   "answers": [
-   "$30",
-   "$60",
-   "$15"
+   "Default",
+   "Weather",
+   "Currency"
   ],
   "correctIndex": 0,
-  "explanation": "Semiannual payment = par × coupon rate ÷ 2.",
+  "explanation": "The insurer promises payment if the issuer fails.",
   "id": "fi120"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 2,
-  "question": "8% coupon, $1,000 par, paid semiannually — each payment?",
+  "difficulty": 3,
+  "question": "Duration gaps matter most to…?",
   "answers": [
-   "$40",
-   "$80",
-   "$20"
+   "Banks",
+   "Bakers",
+   "Actors"
   ],
   "correctIndex": 0,
-  "explanation": "Semiannual payment = par × coupon rate ÷ 2.",
+  "explanation": "Mismatched asset/liability durations drive bank rate risk.",
   "id": "fi121"
  },
  {
   "topic": "fixed_income",
   "difficulty": 3,
-  "question": "1-yr zero, $1,000 par, r 5% — price today?",
+  "question": "Negative rates mean lenders effectively ____ borrowers.",
   "answers": [
-   "$952.38",
-   "$950",
-   "$1,000"
+   "Pay",
+   "Fine",
+   "Ignore"
   ],
   "correctIndex": 0,
-  "explanation": "Zero-coupon price = par ÷ (1 + r)ⁿ (one year here).",
+  "explanation": "Holders accept a guaranteed small loss for safety.",
   "id": "fi122"
  },
  {
   "topic": "fixed_income",
   "difficulty": 3,
-  "question": "1-yr zero, $1,000 par, r 8% — price today?",
+  "question": "The term premium compensates for holding…?",
   "answers": [
-   "$925.93",
-   "$920",
-   "$1,000"
+   "Longer bonds",
+   "More cash",
+   "Stocks"
   ],
   "correctIndex": 0,
-  "explanation": "Zero-coupon price = par ÷ (1 + r)ⁿ (one year here).",
+  "explanation": "Extra yield for bearing long-maturity uncertainty.",
   "id": "fi123"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 2,
-  "question": "Quoted at 95, par $1,000 — the price?",
+  "difficulty": 3,
+  "question": "OAS strips the value of ____ from a spread.",
   "answers": [
-   "$950",
-   "$95",
-   "$1,000"
+   "Embedded options",
+   "Coupons",
+   "Taxes"
   ],
   "correctIndex": 0,
-  "explanation": "Bond quotes are a percentage of par value.",
+  "explanation": "Option-adjusted spread isolates pure credit compensation.",
   "id": "fi124"
  },
  {
   "topic": "fixed_income",
-  "difficulty": 2,
-  "question": "Quoted at 102, par $1,000 — the price?",
+  "difficulty": 3,
+  "question": "Securitization turns loans into…?",
   "answers": [
-   "$1,020",
-   "$102",
-   "$1,000"
+   "Bonds",
+   "Stocks",
+   "Cash"
   ],
   "correctIndex": 0,
-  "explanation": "Bond quotes are a percentage of par value.",
+  "explanation": "Pools of loans become tradable securities.",
   "id": "fi125"
  },
  {
@@ -7010,27 +7010,27 @@
   "id": "fi14",
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "T-bills are issued at a ____ to par.",
+  "question": "Zero-coupon government bills sell at a ____ to par.",
   "answers": [
    "Discount",
    "Premium",
    "Multiple"
   ],
   "correctIndex": 0,
-  "explanation": "Treasury bills pay no coupon; the return is the discount to face value."
+  "explanation": "Short-term government bills pay no coupon — the discount to par is the return."
  },
  {
   "id": "fi15",
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "The extra yield over Treasuries is the credit…?",
+  "question": "Extra yield over government bonds is the credit…?",
   "answers": [
    "Spread",
    "Coupon",
    "Floor"
   ],
   "correctIndex": 0,
-  "explanation": "The credit spread compensates for default risk above the risk-free rate."
+  "explanation": "The spread compensates for default risk above the government benchmark."
  },
  {
   "id": "fi16",
@@ -7052,11 +7052,11 @@
   "question": "A convertible bond can be exchanged for…?",
   "answers": [
    "Equity",
-   "A T-bill",
+   "Land",
    "Cash only"
   ],
   "correctIndex": 0,
-  "explanation": "Convertibles give holders the option to convert into the issuer's shares."
+  "explanation": "Convertibles let holders swap the bond for a set number of shares."
  },
  {
   "id": "fi18",
@@ -7075,27 +7075,27 @@
   "id": "fi19",
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "US Treasury note coupons typically pay…?",
+  "question": "Bond coupons are very often paid…?",
   "answers": [
    "Semiannually",
-   "Monthly",
-   "Annually"
+   "Daily",
+   "Hourly"
   ],
   "correctIndex": 0,
-  "explanation": "US Treasuries pay interest twice a year."
+  "explanation": "Twice-yearly coupons are the most common convention in major markets."
  },
  {
   "id": "fi20",
   "topic": "fixed_income",
   "difficulty": 3,
-  "question": "US municipal bond interest is often exempt from…?",
+  "question": "Some government bonds pay interest that is…?",
   "answers": [
-   "Federal tax",
-   "All fees",
-   "SEC rules"
+   "Tax-exempt",
+   "Illegal",
+   "Invisible"
   ],
   "correctIndex": 0,
-  "explanation": "Muni interest is generally exempt from federal income tax."
+  "explanation": "Many countries give tax breaks to certain government or local-authority bonds."
  },
  {
   "id": "fi21",
@@ -7217,14 +7217,14 @@
  {
   "topic": "fixed_income",
   "difficulty": 1,
-  "question": "US federal government debt securities are called…?",
+  "question": "Bonds issued by national governments are called…?",
   "answers": [
-   "Treasuries",
-   "Munis",
-   "Junk"
+   "Sovereign bonds",
+   "Junk bonds",
+   "Stock"
   ],
   "correctIndex": 0,
-  "explanation": "Bills, notes, and bonds issued by the US Treasury.",
+  "explanation": "Sovereign bonds are the debt of national governments.",
   "id": "fi30"
  },
  {
@@ -7648,12 +7648,12 @@
   "difficulty": 3,
   "question": "A bond's credit spread ≈ its yield minus the ____ yield.",
   "answers": [
-   "Treasury",
+   "Government",
    "Dividend",
    "Earnings"
   ],
   "correctIndex": 0,
-  "explanation": "The spread over the risk-free curve prices credit risk.",
+  "explanation": "Spread = corporate yield minus the matching government-bond yield.",
   "id": "fi63"
  },
  {
@@ -7750,14 +7750,14 @@
  {
   "topic": "fixed_income",
   "difficulty": 1,
-  "question": "US bond interest is usually paid every…?",
+  "question": "Most bonds pay interest at fixed…?",
   "answers": [
-   "Six months",
-   "Week",
-   "Decade"
+   "Intervals",
+   "Auctions",
+   "Parties"
   ],
   "correctIndex": 0,
-  "explanation": "Semiannual coupons are the US convention.",
+  "explanation": "Coupons arrive on a fixed schedule — commonly every six or twelve months.",
   "id": "fi71"
  },
  {
@@ -7923,10 +7923,10 @@
   "answers": [
    "Bondholders",
    "The issuer",
-   "The SEC"
+   "The regulator"
   ],
   "correctIndex": 0,
-  "explanation": "The trustee enforces the indenture for investors.",
+  "explanation": "The trustee enforces the indenture on behalf of the bondholders.",
   "id": "fi84"
  },
  {
@@ -7984,14 +7984,14 @@
  {
   "topic": "fixed_income",
   "difficulty": 2,
-  "question": "Yankee bonds are dollar bonds sold in the US by…?",
+  "question": "Eurobonds are issued ____ the issuer's home market.",
   "answers": [
-   "Foreign issuers",
-   "US startups",
-   "States"
+   "Outside",
+   "Inside",
+   "Only in"
   ],
   "correctIndex": 0,
-  "explanation": "Foreign borrowers tapping the US market issue Yankees.",
+  "explanation": "A eurobond is sold outside the issuer's home country, in any currency.",
   "id": "fi89"
  },
  {
@@ -8167,14 +8167,14 @@
   "id": "mk04",
   "topic": "markets",
   "difficulty": 1,
-  "question": "The S&P 500 tracks roughly how many large US firms?",
+  "question": "A stock index level is computed from member…?",
   "answers": [
-   "About 500",
-   "About 100",
-   "About 30"
+   "Prices",
+   "Logos",
+   "Salaries"
   ],
   "correctIndex": 0,
-  "explanation": "The S&P 500 index covers approximately 500 large-cap US companies."
+  "explanation": "Indexes aggregate member share prices, usually weighted by size."
  },
  {
   "id": "mk05",
@@ -8206,14 +8206,14 @@
   "id": "mk07",
   "topic": "markets",
   "difficulty": 1,
-  "question": "Which index tracks 30 large US companies?",
+  "question": "'Blue chips' are companies that are…?",
   "answers": [
-   "Dow Jones",
-   "Nasdaq 100",
-   "Russell 2000"
+   "Large & stable",
+   "Tiny & new",
+   "Bankrupt"
   ],
   "correctIndex": 0,
-  "explanation": "The Dow Jones Industrial Average contains 30 large US companies."
+  "explanation": "Blue chips are large, established firms with reliable track records."
  },
  {
   "id": "mk08",
@@ -8400,131 +8400,131 @@
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "Bought at $50, sold at $60 — return?",
+  "question": "The FTSE 100 and Nikkei 225 are examples of…?",
   "answers": [
-   "20%",
-   "16.67%",
-   "10%"
+   "Indexes",
+   "Brokers",
+   "Coupons"
   ],
   "correctIndex": 0,
-  "explanation": "Return = (sell − buy) ÷ buy.",
+  "explanation": "Stock indexes track baskets of shares — London's FTSE, Tokyo's Nikkei.",
   "id": "mk110"
  },
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "Bought at $100, sold at $125 — return?",
+  "question": "Stocks and bonds are together called…?",
   "answers": [
-   "25%",
-   "20%",
-   "12.5%"
+   "Securities",
+   "Utilities",
+   "Groceries"
   ],
   "correctIndex": 0,
-  "explanation": "Return = (sell − buy) ÷ buy.",
+  "explanation": "Tradable financial instruments are securities.",
   "id": "mk111"
  },
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "Price $20, 50M shares — market cap?",
+  "question": "A crash is a sudden, severe price…?",
   "answers": [
-   "$1000M",
-   "$100M",
-   "$10000M"
+   "Drop",
+   "Rise",
+   "Freeze"
   ],
   "correctIndex": 0,
-  "explanation": "Market cap = share price × shares outstanding.",
+  "explanation": "Sharp, broad declines define a crash.",
   "id": "mk112"
  },
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "Price $40, 25M shares — market cap?",
+  "question": "Selling borrowed shares you must return later is…?",
   "answers": [
-   "$1000M",
-   "$100M",
-   "$10000M"
+   "Short selling",
+   "Going long",
+   "Hedging"
   ],
   "correctIndex": 0,
-  "explanation": "Market cap = share price × shares outstanding.",
+  "explanation": "Shorts sell first, hoping to buy back cheaper.",
   "id": "mk113"
  },
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "Short 100 shares at $50, cover at $40 — profit?",
+  "question": "The primary market raises money; the secondary provides…?",
   "answers": [
-   "$1,000",
-   "-$1,000",
-   "$2,000"
+   "Liquidity",
+   "Dividends",
+   "Advice"
   ],
   "correctIndex": 0,
-  "explanation": "Short profit = (sale price − cover price) × shares.",
+  "explanation": "Investors trade among themselves after issuance.",
   "id": "mk114"
  },
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "Short 50 shares at $80, cover at $60 — profit?",
+  "question": "Fractional shares let investors buy…?",
   "answers": [
-   "$1,000",
-   "-$1,000",
-   "$2,000"
+   "Part of a share",
+   "Whole lots only",
+   "Bonds only"
   ],
   "correctIndex": 0,
-  "explanation": "Short profit = (sale price − cover price) × shares.",
+  "explanation": "Even pricey stocks become accessible in slices.",
   "id": "mk115"
  },
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "Bid $19.9, ask $20.1 — the spread?",
+  "question": "Robo-advisors build portfolios using…?",
   "answers": [
-   "$0.2",
-   "$40",
-   "$0.1"
+   "Algorithms",
+   "Coin flips",
+   "Dart boards"
   ],
   "correctIndex": 0,
-  "explanation": "Spread = ask − bid.",
+  "explanation": "Automated allocation based on goals and risk tolerance.",
   "id": "mk116"
  },
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "Bid $49.75, ask $50.25 — the spread?",
+  "question": "An expense ratio measures a fund's…?",
   "answers": [
-   "$0.5",
-   "$100",
-   "$0.25"
+   "Annual costs",
+   "Returns",
+   "Taxes"
   ],
   "correctIndex": 0,
-  "explanation": "Spread = ask − bid.",
+  "explanation": "Fees as a percentage of assets, charged yearly.",
   "id": "mk117"
  },
  {
   "topic": "markets",
-  "difficulty": 3,
-  "question": "Stock gains 10%; bought on 50% margin — equity return (ignore costs)?",
+  "difficulty": 2,
+  "question": "Active funds try to ____ the market.",
   "answers": [
-   "20%",
-   "10%",
-   "5%"
+   "Beat",
+   "Match",
+   "Avoid"
   ],
   "correctIndex": 0,
-  "explanation": "With 50% margin, price moves are doubled on your equity (pre-costs).",
+  "explanation": "Active managers pick securities hoping to outperform.",
   "id": "mk118"
  },
  {
   "topic": "markets",
-  "difficulty": 3,
-  "question": "Stock gains 8%; bought on 50% margin — equity return (ignore costs)?",
+  "difficulty": 2,
+  "question": "Passive funds aim to ____ an index.",
   "answers": [
-   "16%",
-   "8%",
-   "4%"
+   "Track",
+   "Beat",
+   "Ban"
   ],
   "correctIndex": 0,
-  "explanation": "With 50% margin, price moves are doubled on your equity (pre-costs).",
+  "explanation": "They replicate the benchmark at minimal cost.",
   "id": "mk119"
  },
  {
@@ -8542,80 +8542,80 @@
  },
  {
   "topic": "markets",
-  "difficulty": 1,
-  "question": "Dividend $2/yr, price $50 — dividend yield?",
+  "difficulty": 2,
+  "question": "A fund's NAV equals net assets per…?",
   "answers": [
-   "4%",
-   "2%",
-   "8%"
+   "Share",
+   "Manager",
+   "Office"
   ],
   "correctIndex": 0,
-  "explanation": "Dividend yield = annual dividend ÷ price.",
+  "explanation": "Assets minus liabilities, divided by shares outstanding.",
   "id": "mk120"
  },
  {
   "topic": "markets",
-  "difficulty": 1,
-  "question": "Dividend $3/yr, price $60 — dividend yield?",
+  "difficulty": 3,
+  "question": "Closed-end funds can trade at a ____ to NAV.",
   "answers": [
-   "5%",
-   "2.5%",
-   "10%"
+   "Discount",
+   "Par only",
+   "Fixed fee"
   ],
   "correctIndex": 0,
-  "explanation": "Dividend yield = annual dividend ÷ price.",
+  "explanation": "With no redemptions, price can drift from asset value.",
   "id": "mk121"
  },
  {
   "topic": "markets",
   "difficulty": 3,
-  "question": "Prices $10, $20, $30 — price-weighted index level?",
+  "question": "ETF prices stay near NAV thanks to…?",
   "answers": [
-   "20",
-   "60",
-   "30"
+   "Arbitrage",
+   "Decrees",
+   "Luck"
   ],
   "correctIndex": 0,
-  "explanation": "A price-weighted index averages the member prices.",
+  "explanation": "Creation and redemption lets traders close any gap.",
   "id": "mk122"
  },
  {
   "topic": "markets",
   "difficulty": 3,
-  "question": "Prices $20, $40, $60 — price-weighted index level?",
+  "question": "Securities settlement runs through a central…?",
   "answers": [
-   "40",
-   "120",
-   "60"
+   "Depository",
+   "Casino",
+   "Ministry"
   ],
   "correctIndex": 0,
-  "explanation": "A price-weighted index averages the member prices.",
+  "explanation": "Depositories like the DTC hold and transfer securities.",
   "id": "mk123"
  },
  {
   "topic": "markets",
-  "difficulty": 2,
-  "question": "Stock falls 50% — gain needed to break even?",
+  "difficulty": 3,
+  "question": "Best-execution rules protect…?",
   "answers": [
-   "100%",
-   "50%",
-   "75%"
+   "Clients",
+   "Brokers",
+   "Exchanges"
   ],
   "correctIndex": 0,
-  "explanation": "After a loss, the recovery percentage is larger than the drop.",
+  "explanation": "Brokers must seek the best available terms for customers.",
   "id": "mk124"
  },
  {
   "topic": "markets",
-  "difficulty": 2,
-  "question": "Stock falls 20% — gain needed to break even?",
+  "difficulty": 3,
+  "question": "Latency arbitrage exploits tiny differences in…?",
   "answers": [
-   "25%",
-   "20%",
-   "30%"
+   "Speed",
+   "Size",
+   "Salaries"
   ],
   "correctIndex": 0,
-  "explanation": "After a loss, the recovery percentage is larger than the drop.",
+  "explanation": "Seeing prices microseconds earlier can be monetized.",
   "id": "mk125"
  },
  {
@@ -8674,14 +8674,14 @@
   "id": "mk17",
   "topic": "markets",
   "difficulty": 2,
-  "question": "US securities markets are mainly regulated by the…?",
+  "question": "Insider trading is policed by the market…?",
   "answers": [
-   "SEC",
-   "Fed",
-   "FDIC"
+   "Regulator",
+   "Caterer",
+   "Mascot"
   ],
   "correctIndex": 0,
-  "explanation": "The Securities and Exchange Commission oversees US securities markets."
+  "explanation": "Securities regulators investigate and punish trading on inside information."
  },
  {
   "id": "mk18",
@@ -8726,14 +8726,14 @@
   "id": "mk21",
   "topic": "markets",
   "difficulty": 3,
-  "question": "ADRs let US investors hold…?",
+  "question": "Depositary receipts let investors hold…?",
   "answers": [
    "Foreign shares",
    "Only bonds",
    "Commodities"
   ],
   "correctIndex": 0,
-  "explanation": "American Depositary Receipts represent foreign company shares on US markets."
+  "explanation": "DRs wrap foreign shares so they trade conveniently on a local exchange."
  },
  {
   "id": "mk22",
@@ -8781,11 +8781,11 @@
   "question": "OTC trading happens…?",
   "answers": [
    "Off exchanges",
-   "On the NYSE",
-   "At the Fed"
+   "On an exchange",
+   "At the bank"
   ],
   "correctIndex": 0,
-  "explanation": "Over-the-counter trades occur directly between parties, not on an exchange."
+  "explanation": "Over-the-counter deals are struck directly between parties, off exchange."
  },
  {
   "topic": "markets",
@@ -8816,14 +8816,14 @@
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "The NYSE is a stock…?",
+  "question": "A stock exchange's core job is ____ buyers and sellers.",
   "answers": [
-   "Exchange",
-   "Regulator",
-   "Broker"
+   "Matching",
+   "Hiding",
+   "Taxing"
   ],
   "correctIndex": 0,
-  "explanation": "It's a marketplace where listed shares trade.",
+  "explanation": "Exchanges are organised marketplaces that match orders and publish prices.",
   "id": "mk28"
  },
  {
@@ -8858,11 +8858,11 @@
   "question": "IPO shares are sold by the…?",
   "answers": [
    "Company",
-   "SEC",
-   "Exchange"
+   "The regulator",
+   "The exchange"
   ],
   "correctIndex": 0,
-  "explanation": "In the primary market, the issuing company receives the proceeds.",
+  "explanation": "In an initial public offering the company itself issues shares to investors.",
   "id": "mk31"
  },
  {
@@ -9102,14 +9102,14 @@
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "The usual 'risk-free rate' proxy is…?",
+  "question": "The usual 'risk-free rate' proxy is short-term ____ debt.",
   "answers": [
-   "T-bills",
-   "Junk bonds",
-   "Small caps"
+   "Government",
+   "Corporate",
+   "Household"
   ],
   "correctIndex": 0,
-  "explanation": "Short-term Treasury bills carry minimal default risk.",
+  "explanation": "Short-term government paper is the standard stand-in for a risk-free rate.",
   "id": "mk50"
  },
  {
@@ -9297,14 +9297,14 @@
  {
   "topic": "markets",
   "difficulty": 3,
-  "question": "The VIX is derived from ____ prices.",
+  "question": "Volatility indexes are computed from ____ prices.",
   "answers": [
-   "S&P options",
-   "Bond coupons",
-   "Gold futures"
+   "Index option",
+   "Bond coupon",
+   "Gold bar"
   ],
   "correctIndex": 0,
-  "explanation": "Implied volatilities of S&P 500 options feed the VIX.",
+  "explanation": "Implied volatility is backed out of index option prices.",
   "id": "mk65"
  },
  {
@@ -9326,11 +9326,11 @@
   "question": "A tender offer proposes to buy shares…?",
   "answers": [
    "From holders",
-   "From the Fed",
+   "From the mint",
    "On margin"
   ],
   "correctIndex": 0,
-  "explanation": "Acquirers appeal directly to shareholders at a stated price.",
+  "explanation": "A bidder offers shareholders a set price to tender their shares.",
   "id": "mk67"
  },
  {
@@ -9349,14 +9349,14 @@
  {
   "topic": "markets",
   "difficulty": 3,
-  "question": "US circuit breaker Level 1 trips at a ____ S&P drop.",
+  "question": "Exchange circuit breakers pause trading after sharp…?",
   "answers": [
-   "7%",
-   "2%",
-   "20%"
+   "Drops",
+   "Gains only",
+   "Lunches"
   ],
   "correctIndex": 0,
-  "explanation": "Levels sit at 7%, 13%, and 20% declines.",
+  "explanation": "Circuit breakers halt trading briefly after steep market falls.",
   "id": "mk69"
  },
  {
@@ -9388,14 +9388,14 @@
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "The Nasdaq is known for listing many ____ firms.",
+  "question": "A company's primary listing is where its shares are…?",
   "answers": [
-   "Tech",
-   "Rail",
-   "Textile"
+   "First listed",
+   "Printed",
+   "Stored"
   ],
   "correctIndex": 0,
-  "explanation": "It became the home exchange for technology companies.",
+  "explanation": "The primary listing is the main exchange where the stock trades.",
   "id": "mk72"
  },
  {
@@ -9427,14 +9427,14 @@
  {
   "topic": "markets",
   "difficulty": 1,
-  "question": "Trading hours for US stocks are set by the…?",
+  "question": "Trading hours for stocks are set by the…?",
   "answers": [
    "Exchanges",
-   "Fed",
-   "IRS"
+   "The weather",
+   "Tax offices"
   ],
   "correctIndex": 0,
-  "explanation": "Exchanges define the regular 9:30–4:00 ET session.",
+  "explanation": "Each exchange sets its own opening and closing times.",
   "id": "mk75"
  },
  {
@@ -9505,14 +9505,14 @@
  {
   "topic": "markets",
   "difficulty": 2,
-  "question": "The settlement cycle for US stocks is…?",
+  "question": "Most stock trades settle within…?",
   "answers": [
-   "T+1",
-   "T+5",
-   "T+0"
+   "A few days",
+   "Five weeks",
+   "A year"
   ],
   "correctIndex": 0,
-  "explanation": "The US moved to next-day (T+1) settlement in 2024.",
+  "explanation": "Settlement cycles are short — one to two business days in most markets.",
   "id": "mk81"
  },
  {
@@ -10025,131 +10025,131 @@
  {
   "topic": "ratios",
   "difficulty": 1,
-  "question": "CA $80k, CL $40k — current ratio?",
+  "question": "A ratio compares one number with…?",
   "answers": [
-   "2",
-   "0.5",
-   "4"
+   "Another",
+   "Itself",
+   "Zero"
   ],
   "correctIndex": 0,
-  "explanation": "Current ratio = current assets ÷ current liabilities.",
+  "explanation": "Context comes from the relationship between figures.",
   "id": "ra110"
  },
  {
   "topic": "ratios",
   "difficulty": 1,
-  "question": "CA $150k, CL $100k — current ratio?",
+  "question": "Margins are always expressed as a…?",
   "answers": [
-   "1.5",
-   "0.67",
-   "3"
+   "Percentage",
+   "Currency",
+   "Weight"
   ],
   "correctIndex": 0,
-  "explanation": "Current ratio = current assets ÷ current liabilities.",
+  "explanation": "Profit per dollar of sales, in percent.",
   "id": "ra111"
  },
  {
   "topic": "ratios",
-  "difficulty": 2,
-  "question": "CA $100k, inventory $40k, CL $50k — quick ratio?",
+  "difficulty": 1,
+  "question": "Which ratio family do lenders watch most?",
   "answers": [
-   "1.2",
-   "2",
-   "0.8"
+   "Solvency",
+   "Marketing",
+   "Styling"
   ],
   "correctIndex": 0,
-  "explanation": "Quick ratio excludes inventory: (CA − inventory) ÷ CL.",
+  "explanation": "Lenders care about leverage and coverage.",
   "id": "ra112"
  },
  {
   "topic": "ratios",
-  "difficulty": 2,
-  "question": "CA $150k, inventory $50k, CL $40k — quick ratio?",
+  "difficulty": 1,
+  "question": "ROE stands for return on…?",
   "answers": [
-   "2.5",
-   "3.75",
-   "1.25"
+   "Equity",
+   "Everything",
+   "Earnings"
   ],
   "correctIndex": 0,
-  "explanation": "Quick ratio excludes inventory: (CA − inventory) ÷ CL.",
+  "explanation": "Profit earned per dollar of shareholders' equity.",
   "id": "ra113"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Net income $20k, equity $100k — ROE?",
+  "question": "A cash-only business shows a very low…?",
   "answers": [
-   "20%",
-   "40%",
-   "10%"
+   "DSO",
+   "DPO",
+   "Margin"
   ],
   "correctIndex": 0,
-  "explanation": "ROE = net income ÷ shareholders' equity.",
+  "explanation": "No credit sales means near-zero days sales outstanding.",
   "id": "ra114"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Net income $45k, equity $300k — ROE?",
+  "question": "Acid-test is another name for the ____ ratio.",
   "answers": [
-   "15%",
-   "30%",
-   "7.5%"
+   "Quick",
+   "Current",
+   "Cash"
   ],
   "correctIndex": 0,
-  "explanation": "ROE = net income ÷ shareholders' equity.",
+  "explanation": "It tests liquidity without counting inventory.",
   "id": "ra115"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Price $40, EPS $2 — P/E ratio?",
+  "question": "Inventory turnover of 12 means selling through about every…?",
   "answers": [
-   "20",
-   "40",
-   "10"
+   "Month",
+   "Year",
+   "Week"
   ],
   "correctIndex": 0,
-  "explanation": "P/E = share price ÷ earnings per share.",
+  "explanation": "365 days over 12 turns is roughly a month.",
   "id": "ra116"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Price $60, EPS $4 — P/E ratio?",
+  "question": "Rising margins with falling turnover can signal a shift to…?",
   "answers": [
-   "15",
-   "30",
-   "7.5"
+   "Premium pricing",
+   "Discounting",
+   "Fraud"
   ],
   "correctIndex": 0,
-  "explanation": "P/E = share price ÷ earnings per share.",
+  "explanation": "Selling fewer units at higher prices trades volume for margin.",
   "id": "ra117"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Debt $100k, equity $200k — debt-to-equity?",
+  "question": "Days metrics convert turnover ratios into…?",
   "answers": [
-   "0.5",
-   "2",
-   "0.33"
+   "Time",
+   "Money",
+   "Risk"
   ],
   "correctIndex": 0,
-  "explanation": "Debt-to-equity = total debt ÷ total equity.",
+  "explanation": "Turns per year become days per cycle.",
   "id": "ra118"
  },
  {
   "topic": "ratios",
   "difficulty": 2,
-  "question": "Debt $300k, equity $150k — debt-to-equity?",
+  "question": "Benchmark ratios come from industry ____ groups.",
   "answers": [
-   "2",
-   "0.5",
-   "0.67"
+   "Peer",
+   "Focus",
+   "Yoga"
   ],
   "correctIndex": 0,
-  "explanation": "Debt-to-equity = total debt ÷ total equity.",
+  "explanation": "Comparable companies define what 'normal' looks like.",
   "id": "ra119"
  },
  {
@@ -10167,80 +10167,80 @@
  },
  {
   "topic": "ratios",
-  "difficulty": 3,
-  "question": "EBIT $120k, interest $30k — interest coverage?",
+  "difficulty": 2,
+  "question": "A falling equity multiplier means the firm is…?",
   "answers": [
-   "4×",
-   "2×",
-   "8×"
+   "Deleveraging",
+   "Borrowing more",
+   "Splitting stock"
   ],
   "correctIndex": 0,
-  "explanation": "Interest coverage = EBIT ÷ interest expense.",
+  "explanation": "Less assets per equity dollar means less debt.",
   "id": "ra120"
  },
  {
   "topic": "ratios",
   "difficulty": 3,
-  "question": "EBIT $200k, interest $40k — interest coverage?",
+  "question": "Basel capital ratios apply to…?",
   "answers": [
-   "5×",
-   "2.5×",
-   "10×"
+   "Banks",
+   "Farms",
+   "Airlines"
   ],
   "correctIndex": 0,
-  "explanation": "Interest coverage = EBIT ÷ interest expense.",
+  "explanation": "Bank regulators set minimum capital standards.",
   "id": "ra121"
  },
  {
   "topic": "ratios",
   "difficulty": 3,
-  "question": "COGS $240k, average inventory $60k — inventory turnover?",
+  "question": "The Texas ratio gauges ____ health.",
   "answers": [
-   "4×",
-   "2×",
-   "8×"
+   "Bank",
+   "Ranch",
+   "Retail"
   ],
   "correctIndex": 0,
-  "explanation": "Inventory turnover = COGS ÷ average inventory.",
+  "explanation": "Bad loans against capital — a bank distress flag.",
   "id": "ra122"
  },
  {
   "topic": "ratios",
   "difficulty": 3,
-  "question": "COGS $500k, average inventory $100k — inventory turnover?",
+  "question": "Piotroski's F-score sums ____ fundamental signals.",
   "answers": [
-   "5×",
-   "2.5×",
-   "10×"
+   "Nine",
+   "Two",
+   "Fifty"
   ],
   "correctIndex": 0,
-  "explanation": "Inventory turnover = COGS ÷ average inventory.",
+  "explanation": "Nine pass/fail tests of improving fundamentals.",
   "id": "ra123"
  },
  {
   "topic": "ratios",
   "difficulty": 3,
-  "question": "Margin 5%, turnover 2, leverage 2.5 — ROE?",
+  "question": "The rule of 72 estimates ____ time.",
   "answers": [
-   "25%",
-   "10%",
-   "9.5%"
+   "Doubling",
+   "Closing",
+   "Commute"
   ],
   "correctIndex": 0,
-  "explanation": "DuPont: ROE = net margin × asset turnover × equity multiplier.",
+  "explanation": "72 divided by the growth rate approximates years to double.",
   "id": "ra124"
  },
  {
   "topic": "ratios",
   "difficulty": 3,
-  "question": "Margin 4%, turnover 1.5, leverage 2 — ROE?",
+  "question": "Beneish's M-score flags possible…?",
   "answers": [
-   "12%",
-   "6%",
-   "7.5%"
+   "Manipulation",
+   "Mergers",
+   "Margins"
   ],
   "correctIndex": 0,
-  "explanation": "DuPont: ROE = net margin × asset turnover × equity multiplier.",
+  "explanation": "It screens for earnings manipulation risk.",
   "id": "ra125"
  },
  {
@@ -11649,132 +11649,132 @@
  },
  {
   "topic": "valuation",
-  "difficulty": 2,
-  "question": "Cash flow $10k/yr forever, r 10% — value?",
+  "difficulty": 1,
+  "question": "Valuing a house by nearby sales mirrors which method?",
   "answers": [
-   "$100k",
-   "$1,000",
-   "$50k"
+   "Comparables",
+   "DCF",
+   "Liquidation"
   ],
   "correctIndex": 0,
-  "explanation": "Perpetuity value = cash flow ÷ discount rate.",
+  "explanation": "Similar assets' prices anchor the estimate.",
   "id": "va110"
  },
  {
   "topic": "valuation",
-  "difficulty": 2,
-  "question": "Cash flow $50k/yr forever, r 8% — value?",
+  "difficulty": 1,
+  "question": "A lemonade stand's value comes from its future…?",
   "answers": [
-   "$625k",
-   "$4,000",
-   "$312.5k"
+   "Cash flows",
+   "Lemons",
+   "Paint"
   ],
   "correctIndex": 0,
-  "explanation": "Perpetuity value = cash flow ÷ discount rate.",
+  "explanation": "Any business is worth the cash it will generate.",
   "id": "va111"
  },
  {
   "topic": "valuation",
-  "difficulty": 3,
-  "question": "D1 $2, r 9%, g 4% — Gordon price?",
+  "difficulty": 1,
+  "question": "Overpaying for an asset locks in poor…?",
   "answers": [
-   "$40",
-   "$22.22",
-   "$15.38"
+   "Returns",
+   "Weather",
+   "Staffing"
   ],
   "correctIndex": 0,
-  "explanation": "Gordon growth: price = next dividend ÷ (r − g).",
+  "explanation": "Price paid determines the return earned.",
   "id": "va112"
  },
  {
   "topic": "valuation",
-  "difficulty": 3,
-  "question": "D1 $3, r 10%, g 4% — Gordon price?",
+  "difficulty": 1,
+  "question": "An asset with no future benefit is worth…?",
   "answers": [
-   "$50",
-   "$30",
-   "$21.43"
+   "Nothing",
+   "More",
+   "Par"
   ],
   "correctIndex": 0,
-  "explanation": "Gordon growth: price = next dividend ÷ (r − g).",
+  "explanation": "No expected cash or use means no value.",
   "id": "va113"
  },
  {
   "topic": "valuation",
   "difficulty": 2,
-  "question": "Rf 3%, beta 1.2, market premium 5% — CAPM return?",
+  "question": "Depreciation matters in a DCF through…?",
   "answers": [
-   "9%",
-   "8%",
-   "6%"
+   "Taxes",
+   "Morale",
+   "Signage"
   ],
   "correctIndex": 0,
-  "explanation": "CAPM: required return = risk-free + beta × market premium.",
+  "explanation": "It's non-cash but shields income from tax.",
   "id": "va114"
  },
  {
   "topic": "valuation",
   "difficulty": 2,
-  "question": "Rf 2%, beta 1.5, market premium 6% — CAPM return?",
+  "question": "Sanity check: the implied exit multiple should look…?",
   "answers": [
-   "11%",
-   "8%",
-   "9%"
+   "Reasonable",
+   "Infinite",
+   "Negative"
   ],
   "correctIndex": 0,
-  "explanation": "CAPM: required return = risk-free + beta × market premium.",
+  "explanation": "A wild implied multiple exposes bad growth assumptions.",
   "id": "va115"
  },
  {
   "topic": "valuation",
-  "difficulty": 3,
-  "question": "Market cap $500M, debt $200M, cash $100M — EV?",
+  "difficulty": 2,
+  "question": "Equity value per share = equity value ÷ ?",
   "answers": [
-   "$600M",
-   "$800M",
-   "$400M"
+   "Share count",
+   "Revenue",
+   "Assets"
   ],
   "correctIndex": 0,
-  "explanation": "Enterprise value = market cap + debt − cash.",
+  "explanation": "Divide by diluted shares outstanding.",
   "id": "va116"
  },
  {
   "topic": "valuation",
-  "difficulty": 3,
-  "question": "Market cap $1000M, debt $400M, cash $150M — EV?",
+  "difficulty": 2,
+  "question": "Beta in CAPM measures ____ risk only.",
   "answers": [
-   "$1250M",
-   "$1550M",
-   "$750M"
+   "Systematic",
+   "Total",
+   "Legal"
   ],
   "correctIndex": 0,
-  "explanation": "Enterprise value = market cap + debt − cash.",
+  "explanation": "Only market-wide risk earns a premium in CAPM.",
   "id": "va117"
  },
  {
   "topic": "valuation",
   "difficulty": 2,
-  "question": "Peers trade at 15× earnings; EPS $4 — implied price?",
+  "question": "Diversifiable risk earns…?",
   "answers": [
-   "$60",
-   "$3.75",
-   "$19"
+   "No premium",
+   "Extra return",
+   "Tax breaks"
   ],
   "correctIndex": 0,
-  "explanation": "Implied price = P/E multiple × EPS.",
+  "explanation": "You can diversify it away for free, so it isn't paid.",
   "id": "va118"
  },
  {
   "topic": "valuation",
   "difficulty": 2,
-  "question": "Peers trade at 20× earnings; EPS $3 — implied price?",
+  "question": "A levered firm's equity beta is ____ its asset beta.",
   "answers": [
-   "$60",
-   "$6.67",
-   "$23"
+   "Above",
+   "Below",
+   "Equal to"
   ],
   "correctIndex": 0,
-  "explanation": "Implied price = P/E multiple × EPS.",
+  "explanation": "Debt amplifies equity holders' exposure.",
   "id": "va119"
  },
  {
@@ -11792,80 +11792,80 @@
  },
  {
   "topic": "valuation",
-  "difficulty": 3,
-  "question": "Exit at 8× EBITDA of $50M — exit value?",
+  "difficulty": 2,
+  "question": "Terminal value is discounted back from the ____ year.",
   "answers": [
-   "$400M",
-   "$6.25M",
-   "$800M"
+   "Final forecast",
+   "First",
+   "Current"
   ],
   "correctIndex": 0,
-  "explanation": "Exit value = exit multiple × final-year EBITDA.",
+  "explanation": "It sits at the forecast horizon, then comes back to today.",
   "id": "va120"
  },
  {
   "topic": "valuation",
   "difficulty": 3,
-  "question": "Exit at 10× EBITDA of $20M — exit value?",
+  "question": "The certainty-equivalent method adjusts…?",
   "answers": [
-   "$200M",
-   "$2M",
-   "$400M"
+   "Cash flows",
+   "The rate",
+   "Both twice"
   ],
   "correctIndex": 0,
-  "explanation": "Exit value = exit multiple × final-year EBITDA.",
+  "explanation": "Haircut the flows, then discount at the risk-free rate.",
   "id": "va121"
  },
  {
   "topic": "valuation",
   "difficulty": 3,
-  "question": "$110k due in 1 yr, r 10% — present value?",
+  "question": "The VC method works backward from an expected…?",
   "answers": [
-   "$100k",
-   "$121k",
-   "$99k"
+   "Exit value",
+   "Tax bill",
+   "Logo"
   ],
   "correctIndex": 0,
-  "explanation": "PV = future cash flow ÷ (1 + r).",
+  "explanation": "Target exit and required return imply today's stake.",
   "id": "va122"
  },
  {
   "topic": "valuation",
   "difficulty": 3,
-  "question": "$105k due in 1 yr, r 5% — present value?",
+  "question": "Pre-money plus new cash equals ____ valuation.",
   "answers": [
-   "$100k",
-   "$110.2k",
-   "$99.8k"
+   "Post-money",
+   "Pre-tax",
+   "Terminal"
   ],
   "correctIndex": 0,
-  "explanation": "PV = future cash flow ÷ (1 + r).",
+  "explanation": "Post-money = pre-money + investment.",
   "id": "va123"
  },
  {
   "topic": "valuation",
-  "difficulty": 1,
-  "question": "EPS $4, price $50 — earnings yield?",
+  "difficulty": 3,
+  "question": "Liquidation preferences reduce value for…?",
   "answers": [
-   "8%",
-   "4%",
-   "16%"
+   "Common holders",
+   "Auditors",
+   "Landlords"
   ],
   "correctIndex": 0,
-  "explanation": "Earnings yield = EPS ÷ price (the inverse of P/E).",
+  "explanation": "Preferred gets paid first, shrinking the common's slice.",
   "id": "va124"
  },
  {
   "topic": "valuation",
-  "difficulty": 1,
-  "question": "EPS $2, price $40 — earnings yield?",
+  "difficulty": 3,
+  "question": "A property's cap rate = NOI ÷ ?",
   "answers": [
-   "5%",
-   "2.5%",
-   "10%"
+   "Price",
+   "Rent roll",
+   "Debt"
   ],
   "correctIndex": 0,
-  "explanation": "Earnings yield = EPS ÷ price (the inverse of P/E).",
+  "explanation": "Net operating income over purchase price.",
   "id": "va125"
  },
  {
@@ -12173,11 +12173,11 @@
   "question": "FCFE discounts at cost of equity; FCFF discounts at…?",
   "answers": [
    "WACC",
-   "T-bill rate",
+   "Prime rate",
    "Coupon rate"
   ],
   "correctIndex": 0,
-  "explanation": "Firm-wide flows use the firm-wide cost of capital.",
+  "explanation": "Match the discount rate to who receives the cash flows.",
   "id": "va36"
  },
  {
